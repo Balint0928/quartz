@@ -23,7 +23,7 @@ tags:
 - [[Second Wind]], [[Warrior’s Soul]]
 
 **Level 2**
-- [[Action Surge]]
+- [[Action Surge]], (maneuver?)
 
 **Level 3**
 - [[Martial Archetype]]
