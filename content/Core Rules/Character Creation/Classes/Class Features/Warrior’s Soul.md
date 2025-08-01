@@ -6,4 +6,4 @@ tags:
 ---
 
 
-You use your full proficiency bonus for [[Provoke]] and [[Battle Hardened]]
+You use your full proficiency bonus for [[Provoke]] , [[Battle Hardened]] and [[Weapon Specialization]]

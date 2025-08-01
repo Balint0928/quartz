@@ -1,0 +1,1 @@
+You can use your bonus action on each of your turns in combat, to take the Dash, Disengage or Hide action.

@@ -1,10 +1,9 @@
 ---
-title: Fighter Subclass
+title: Martial Archetype
 draft: false
 tags:
   - fighter_feature
 ---
-
 *Select one of the following Fighter subclasses:*
 
 ### Champion

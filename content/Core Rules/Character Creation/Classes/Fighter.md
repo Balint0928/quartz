@@ -6,15 +6,17 @@ tags:
 ---
 ## Basic info:
 
-Role: [[Martial]] & [[Mundane]]
-Hit dice: **d10**
-HP at 1st level: 10 + Con
-Proficiencies:
-Armor: Light, Medium Armor, Shields
-Weapons: Simple, Martial weapons
-Save: STR & CON
-Tools: 1 of your choice
-Skills: 1 of your choice
+- Role: [[Martial]] & [[Mundane]]
+- Hit dice: **d10**
+- HP at 1st level: 10 + CON
+- HP beyond 1st level: 1d10(6) + CON
+
+**Proficiencies:**
+- **Armor:** Light, Medium Armor, Shields
+- **Weapons:** Simple, Martial weapons
+- **Save:** STR & CON
+- **Tools:** 1 of your choice
+- **Skills:** 1 of your choice
 
 # Features by level
 **Level 1**
@@ -24,7 +26,7 @@ Skills: 1 of your choice
 - [[Action Surge]]
 
 **Level 3**
-- [[Fighter Subclass]]
+- [[Martial Archetype]]
 
 **Level 4**
 - [[Ability score improvement]] Or [[Feat Choice]]

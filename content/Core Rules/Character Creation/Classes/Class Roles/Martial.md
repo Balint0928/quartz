@@ -4,8 +4,7 @@ draft: false
 tags:
   - role
 ---
- 
-You gain the following features if your character possesses the martial role at the indicated levels:
+ You gain the following features if your character possesses the martial role at the indicated levels:
 
 **Level 1**
 - [[Fighting Style]], Proficiency with [[Martial Knowledge]] checks, Proficiency with martial weapons
