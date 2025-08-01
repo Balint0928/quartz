@@ -1,3 +1,5 @@
-[[D&D Quartz]]
-[[Character creation]]
-[[Classes]]
+
+```dataview
+LIST
+FROM "content"
+```
