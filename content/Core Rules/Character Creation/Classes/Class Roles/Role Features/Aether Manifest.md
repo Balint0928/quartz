@@ -7,7 +7,7 @@ tags:
 ---
 Being exposed to Aether makes you manifest certain mutations.
 
-This is based on your [[Ancestry]].
+This is based on your [[content/Core Rules/Character Creation/Ancestry]].
 
 While you have at least 1 AP:
 
