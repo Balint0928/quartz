@@ -4,8 +4,6 @@ draft: false
 tags:
   - class
 ---
- 
-
 ## Basic info:
 
 	Role: [[Martial]] & [[Mundane]]
@@ -24,8 +22,8 @@ tags:
 **Level 2**
 	[[Action Surge]]
 **Level 3**
-	[[Subclass]]
+	[[Fighter Subclass]]
 **Level 4**
-	[[Ability score improvement]] Or [[Feat]]
+	[[Ability score improvement]] Or [[Feat Choice]]
 **Level 5**
-	[[Glory]]
+	[[Glory]], [[Indomitable]]
