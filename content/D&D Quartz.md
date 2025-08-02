@@ -5,7 +5,7 @@ tags:
 ---
 # Core rules
 
-- ## [[Character creation]]
+- ## [[Character Creation]]
 - ## [[Combat]]
 - ## [[Equipment]]
 - ## [[Adventuring]]
