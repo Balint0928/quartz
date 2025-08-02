@@ -1,5 +1,5 @@
 ---
-title: Ancestry
+title: Ancestries
 draft: false
 tags:
 ---

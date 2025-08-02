@@ -5,10 +5,10 @@ tags:
 ---
 
 # Step-by-step
-- First, you must choose a [[Classes#Base Classes|Class]], and note down the [[Classes#Roles|Role]](s) your class belongs to.
-- Then, pick an [[Ancestry]]. Take note of your Role's ancestral passives.
+- First, you must choose a [[Classes#Base Classes|Class]], and note down the Role(s) your class belongs to.
+- Then, pick an [[Ancestries]]. Take note of your Role's ancestral passives.
 - Select a [[Stat Array]] to determine your character's starting ability scores. 
 - Take note of your [[Skills]].
-- Items depend on starting wealth, which is story dependent
+- Items depend on starting wealth, which is story dependent.
 
 

@@ -6,4 +6,4 @@ tags:
   - ancestry_feature
   - mundane
 ---
-Your strengths counts as 1 higher for the purposes of Heft.
+Your strength counts as 1 higher for the purposes of Heft.
