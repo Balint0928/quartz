@@ -5,7 +5,7 @@ tags:
   - class_feature
   - monk
 ---
-Once per turn, you can use a bonus action to channel your [[spirit]] into a mantra, a sacred rite, or chant that grants you certain benefits. Mantras have a trigger condition. When the condition is met, you can use the active mantra as a reaction. A mantra remains active until the end of the combat or until you run out of [[Spirit]]. You can only enter a Mantra if you have at least 1 [[Spirit]].
+Once per turn, you can use a bonus action to channel your [[Spirit]] into a mantra, a sacred rite, or chant that grants you certain benefits. Mantras have a trigger condition. When the condition is met, you can use the active mantra as a reaction. A mantra remains active until the end of the combat or until you run out of [[Spirit]]. You can only enter a Mantra if you have at least 1 [[Spirit]].
 
 ### Mantra of Retribution:
 
