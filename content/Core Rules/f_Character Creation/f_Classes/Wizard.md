@@ -20,7 +20,7 @@ tags:
 
 # Features by level
 **Level 1**
-- 
+- [[Arcane Grimoire]], [[Arcana Adept]], 
 
 **Level 2**
 - 
