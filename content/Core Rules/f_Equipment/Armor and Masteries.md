@@ -2,6 +2,7 @@
 title: Armor and Masteries
 draft: false
 tags:
+  - equipment
 ---
 
 # Light Armor
