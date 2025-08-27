@@ -26,6 +26,6 @@ tags:
 
 - **Bear's Hide:** Gain proficiency with heavy armor
 
-- **Bear's Poise:** Gain [[Armor Mastery]] with an armor or shield that you have proficiency with
+- **Bear's Poise:** Gain [[content/Core Rules/f_Character Creation/f_Classes/Class Roles/Role Features/Armor Mastery]] with an armor or shield that you have proficiency with
 
 - **Bear's Might:** You have advantage on constitution saving throws to maintain concentration on your [[Hunter's Mark]].
