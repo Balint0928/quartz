@@ -12,11 +12,11 @@ tags:
 | [[Ranger]]    | [[Martial]] | [[Wanderer]] |
 | [[Monk]]      | [[Martial]] | [[Wanderer]] |
 | [[Cleric]]    | [[Magical]] | -            |
-| [[Wizard]]    |             | -            |
-| [[Sorcerer]]  |             | -            |
-| [[Druid]]     |             |              |
-| [[Bard]]      |             |              |
-| [[Warlock]]   |             | -            |
+| [[Wizard]]    | [[Magical]] | -            |
+| [[Sorcerer]]  | [[Magical]] | -            |
+| [[Druid]]     | [[Magical]] | [[Wanderer]] |
+| [[Bard]]      | [[Magical]] | [[Wanderer]] |
+| [[Warlock]]   | [[Magical]] | -            |
 | [[Paladin]]   |             |              |
 
 # Base Classes
