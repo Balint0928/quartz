@@ -21,6 +21,6 @@ tags:
 
 ### **Swashbuckler:**
 
-- **Panache:** You gain proficiency with a weapon of your choice and you gain [[Weapon Mastery]] with that weapon.
+- **Panache:** You gain proficiency with a weapon of your choice and you gain [[content/Core Rules/f_Character Creation/f_Classes/Class Roles/Role Features/Weapon Mastery]] with that weapon.
 
 - **Rakish Audacity:** You gain an additional way to use your Sneak Attack; you don't need advantage on your attack roll to use Sneak Attack against a creature if you are within 5 feet of it, no other creatures are within 5 feet of you, and you don't have disadvantage on the attack roll. All the other rules for Sneak Attack still apply to you.

@@ -23,8 +23,8 @@ tags:
 
 ### Way of the Warden
 
-- You gain proficiency with a weapon of your choice and you gain [[Weapon Mastery]] with that weapon.
+- You gain proficiency with a weapon of your choice and you gain [[content/Core Rules/f_Character Creation/f_Classes/Class Roles/Role Features/Weapon Mastery]] with that weapon.
 
-- All effects controlled by the monk that would affect Unarmed attacks, also applies to the monk weapon chosen by the [[Weapon Mastery]]. You may only choose a monk weapon for these effects.
+- All effects controlled by the monk that would affect Unarmed attacks, also applies to the monk weapon chosen by the [[content/Core Rules/f_Character Creation/f_Classes/Class Roles/Role Features/Weapon Mastery]]. You may only choose a monk weapon for these effects.
 
 - ==*Gain an Advanced Fighting Style?*==
