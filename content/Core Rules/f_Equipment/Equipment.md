@@ -12,5 +12,5 @@ tags:
 # Tools 
 [[Tools and Masteries]]
 
-# Spell focuses
+# Spell foci
 [[Focuses and Masteries]]

@@ -36,3 +36,10 @@ You can take any number of free actions.
 You may interact with an item, draw or stow a weapon, etc...
 
 
+# Damage & Dying
+In combat, characters will take damage, and reduce their HP. Some effects may cause certain characters or creatures to have certain [[Resistances and Weaknesses]] against different types of Damage.
+
+When a player character is reduced to 0 HP, it enters the [[Dying]] state. When a character in this state regains any number of HP, they exit the Dying state.
+
+### Sudden Death & Doom
+Certain effects can apply [[Sudden Death]] or [[Doomed]] to a character.
