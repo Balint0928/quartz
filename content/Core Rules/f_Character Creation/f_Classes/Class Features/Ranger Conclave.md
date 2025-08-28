@@ -10,7 +10,7 @@ tags:
 
 ### Wolf Conclave:
 
-- **Wolf's Technique:** You gain proficiency with a weapon of your choice and you gain [[content/Core Rules/f_Character Creation/f_Classes/Class Roles/Role Features/Weapon Mastery]] with that weapon or another weapon you have proficiency with.
+- **Wolf's Technique:** You gain proficiency with a weapon of your choice and you gain [[content/Core Rules/f_Character Creation/f_Classes/Class Roles/Role Features/Weapon Mastery|Weapon Mastery]] with that weapon or another weapon you have proficiency with.
 
 - **Wolf's Fang:** While wielding a weapon you are proficient with, attacks you make against Marked creatures have their critical threshold increased by 1.
 
@@ -26,6 +26,6 @@ tags:
 
 - **Bear's Hide:** Gain proficiency with heavy armor
 
-- **Bear's Poise:** Gain [[content/Core Rules/f_Character Creation/f_Classes/Class Roles/Role Features/Armor Mastery]] with an armor or shield that you have proficiency with
+- **Bear's Poise:** Gain [[content/Core Rules/f_Character Creation/f_Classes/Class Roles/Role Features/Armor Mastery|Armor Mastery]] with an armor or shield that you have proficiency with
 
 - **Bear's Might:** You have advantage on constitution saving throws to maintain concentration on your [[Hunter's Mark]].
