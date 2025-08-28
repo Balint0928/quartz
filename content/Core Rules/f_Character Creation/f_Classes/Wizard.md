@@ -34,3 +34,6 @@ tags:
 **Level 5**
 - [[School Mastery]]
 
+
+## Spellcasting info
+You have a list of known Wizard spells. During each long rest, you can prepare a number of Wizard spells that equals your Wizard level + Intelligence modifier. A spell you prepare remain prepared until you prepare something else in its place. You can only cast spells that you have prepared. 

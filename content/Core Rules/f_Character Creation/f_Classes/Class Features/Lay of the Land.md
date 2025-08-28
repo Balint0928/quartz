@@ -19,4 +19,4 @@ You must attune to a terrain, or your immediate environment during a 10 minute r
 
 - If you are traveling alone, you can move stealthily at a normal pace.
 
-You can use this feature once per long rest.
+You can use this feature once per [[Long Rest]].

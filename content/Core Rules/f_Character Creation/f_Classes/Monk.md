@@ -26,7 +26,7 @@ tags:
 - [[Focused Spirit]], [[Mantras]]
 
 **Level 3**
-- [[Monk Tradition]] ==(WIP)==
+- [[Monk Tradition]] 
 
 **Level 4**
 - [[Ability score improvement]] OR [[Feat Choice]]
