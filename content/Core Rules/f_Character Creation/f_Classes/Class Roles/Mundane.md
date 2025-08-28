@@ -10,7 +10,7 @@ You gain the following features if your character possesses the mundane role at 
 - Tool Proficiency, [[Improved Interaction]]
 
 **Level 2:**
-- [[content/Core Rules/f_Character Creation/f_Classes/Class Roles/Role Features/Tool Mastery]]
+- [[Tool Mastery]]
 
 **Level 3:**
 - [[Taunt]], Proficiency with an Exotic Weapon of your choice
@@ -19,4 +19,4 @@ You gain the following features if your character possesses the mundane role at 
 - [[Class feat]] or [[Role feat]]
 
 **Level 5:**
-- [[content/Core Rules/f_Character Creation/f_Classes/Class Roles/Role Features/Tool Mastery]]
+- [[Tool Mastery]]

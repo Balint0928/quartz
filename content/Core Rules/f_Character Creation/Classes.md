@@ -17,7 +17,7 @@ tags:
 | [[Druid]]     | [[Magical]] | [[Wanderer]] |
 | [[Bard]]      | [[Magical]] | [[Wanderer]] |
 | [[Warlock]]   | [[Magical]] | -            |
-| [[Paladin]]   |             |              |
+| [[Paladin]]   | [[Magical]] | [[Martial]]  |
 
 # Base Classes
 - [[Fighter]]

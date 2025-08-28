@@ -13,7 +13,7 @@ tags:
 - [[Aether Channel]]
 
 **Level 3**
-- [[Extra Spells]], [[Aether Manifest]], [[Spellcasting Focus]] proficiency
+- [[Extra Spells]], [[Aether Manifest]], [[Focuses and Masteries|Spellcasting Focus]] proficiency
 
 **Level 4**
 - [[Class feat]] or [[Role feat]]
