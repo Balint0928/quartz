@@ -1,5 +1,5 @@
 ---
-title: Spirits' Envoy
+title: Leanbh an Nádúir
 draft: false
 tags:
   - class_feature
