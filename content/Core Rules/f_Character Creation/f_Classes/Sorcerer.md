@@ -34,3 +34,6 @@ tags:
 **Level 5**
 - [[Metamagic]]
 
+
+## Spellcasting info
+You have a list of known Sorcerer spells. During each long rest, you can prepare a number of Sorcerer spells that equals your Sorcerer level + Charisma modifier. A spell you prepare remain prepared until you prepare something else in its place. You can only cast spells that you have prepared. 

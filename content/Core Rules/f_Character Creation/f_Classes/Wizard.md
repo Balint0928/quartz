@@ -20,10 +20,10 @@ tags:
 
 # Features by level
 **Level 1**
-- [[Arcane Grimoire]], [[Arcane Adept]] 
+- [[Arcane Grimoire]], [[Arcane Adept]]
 
 **Level 2**
-- [[Arcane Recovery]], [[Chant]]
+- [[Arcane Recovery]], [[Chant]], [[Growing Collection]]
 
 **Level 3**
 - [[Arcane Tradition]]
