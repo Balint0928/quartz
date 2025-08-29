@@ -28,5 +28,5 @@ tags:
 	- Spring: Poison & Psychic
 - You gain resistance to the damage types of your season that equals your current AP.
 - When you deal damage with a spell that deals different damage from your season's damage type, the damage of that spell is also considered to have one of your season's damage type.
-- When you deal damage with a spell that has your season's damage type by default, you can add your current AP to the first damage that spell deals.
-- You learn 
+- When you deal damage with a spell that has your season's damage type by default, you can add half your current AP to the first damage that spell deals.
+- You learn two spells of your choice that you can cast and that uses the same damage type as your season.

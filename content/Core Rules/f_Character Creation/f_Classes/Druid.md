@@ -29,8 +29,10 @@ tags:
 - [[Druidic Circle]]
 
 **Level 4**
-- 
+- [[Ability score improvement]] or [[Feat Choice]]
 
 **Level 5**
-- 
+- [[Weal and Woe]]
 
+## Spellcasting info
+You have a list of known Druid spells. During each long rest, you can prepare a number of Druid spells that equals your Druid level + Wisdom modifier. A spell you prepare remains prepared until you prepare something else in its place. You can only cast spells that you have prepared. 

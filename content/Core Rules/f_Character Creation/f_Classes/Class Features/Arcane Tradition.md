@@ -17,6 +17,7 @@ Wizards of this tradition use their spellcasting foci better than anyone else.
 Wizards of this tradition hone their skills in the art of war.
 
 - Gain proficiency with a martial or simple weapon of your choice.
+- Gain 1 permanent AP, and you can use your spellcasting modifier for the weapon statistics.
 - At the start of a combat, you can increase your permanent AP by 1 until the end of your next long rest to gain one of the following benefits while that combat lasts:
 	- You can use your chosen weapon as a spellcasting focus for your wizard spells.
 	- You gain [[content/Core Rules/f_Character Creation/f_Classes/Class Roles/Role Features/Weapon Mastery|Weapon Mastery]] with your chosen weapon. Each time you benefit from the weapon special or mastery feature gain 1 AP.
