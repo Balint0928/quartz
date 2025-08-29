@@ -7,7 +7,7 @@ tags:
 ---
 As your [[Aether Fatigue]] increases, so does your mastery over the arcane. This is a dangerous dance, many sorcerers loose eventually.
 
-As your AP increases you unlock the usage of the following Metamagic options. Using a metamagic on a spell has different AP increases based on the metamagic and the level of the spell.
+As your AP increases you unlock the usage of the following Metamagic options. Using a metamagic on a spell increases your AP by 1
 
 
 | Current AP | Metamagic options                                            |
