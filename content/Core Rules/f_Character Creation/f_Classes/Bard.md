@@ -26,7 +26,7 @@ tags:
 - [[Spell Selection]], [[Maestro]]
 
 **Level 3**
-- 
+- [[Bardic College]]
 
 **Level 4**
 - 
