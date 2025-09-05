@@ -20,13 +20,13 @@ tags:
 
 # Features by level
 **Level 1**
-- 
+- [[Patron]], [[Occult Arcanum]], [[Heretic's Hunger]]
 
 **Level 2**
-- 
+- [[Eldritch Invocation]]
 
 **Level 3**
-- 
+- [[Warlock Pact]]
 
 **Level 4**
 - 
