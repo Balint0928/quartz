@@ -29,8 +29,11 @@ tags:
 - [[Bardic College]]
 
 **Level 4**
-- 
+- [[Ability score improvement]] OR [[Feat Choice]]
 
 **Level 5**
-- 
+- [[Sword, Song and Spell]]
 
+
+## Spellcasting info
+You have a list of known Bard spells. During each long rest, you can prepare a number of Bard spells that equals your Bard level + Charisma modifier. A spell you prepare remain prepared until you prepare something else in its place. You can only cast spells that you have prepared. 
