@@ -1,5 +1,5 @@
 ---
-title: Class feat
+title: Class Feat
 draft: false
 tags:
   - feat

@@ -16,7 +16,7 @@ You gain the following features if your character possesses the mundane role at 
 - [[Taunt]], Proficiency with an Exotic Weapon of your choice
 
 **Level 4:**
-- [[Class feat]] or [[Role feat]]
+- [[Class Feat]] or [[Role feat]]
 
 **Level 5:**
 - [[Tool Mastery]]

@@ -16,7 +16,7 @@ You gain the following features if your character possesses the wanderer role at
 - [[Skill Mastery]]
 
 **Level 4:**
-- [[Class feat]] or [[Role feat]]
+- [[Class Feat]] or [[Role feat]]
 
 **Level 5:**
 - [[Skill Mastery]]

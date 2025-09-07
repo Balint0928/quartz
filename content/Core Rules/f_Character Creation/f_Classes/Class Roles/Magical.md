@@ -16,7 +16,7 @@ tags:
 - [[Extra Spells]], [[Aether Manifest]], [[Focuses and Masteries|Spellcasting Focus]] proficiency
 
 **Level 4**
-- [[Class feat]] or [[Role feat]]
+- [[Class Feat]] or [[Role feat]]
 
 **Level 5**
 - [[Extra Spells]], [[Vent Aether]]

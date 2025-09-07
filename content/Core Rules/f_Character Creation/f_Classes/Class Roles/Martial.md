@@ -10,13 +10,13 @@ tags:
 - [[Fighting Style]], Proficiency with [[Martial Knowledge]] checks, Proficiency with martial weapons
 
 **Level 2**
-- [[Weapon Specialization]]
+- [[Weapon Specialization]], [[Provoke]]
 
 **Level 3**
 - [[Battle Hardened]]
 
 **Level 4**
-- [[Class feat]] or [[Role feat]]
+- [[Class Feat]] or [[Role feat]]
 
 **Level 5**
 - [[Extra Attack]]
