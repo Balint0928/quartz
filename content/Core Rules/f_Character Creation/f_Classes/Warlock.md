@@ -29,9 +29,9 @@ tags:
 - [[Warlock Pact]]
 
 **Level 4**
-- 
+- [[Ability score improvement]] or [[Feat Choice]]
 
 **Level 5**
-- 
+- [[Otherworldly Gift]]
 
 
