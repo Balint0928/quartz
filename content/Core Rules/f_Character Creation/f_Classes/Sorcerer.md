@@ -15,8 +15,8 @@ tags:
 - **Armor:** Light Armor
 - **Weapons:** [[Club]], [[Dagger]], [[Sickle]], [[Spear]], [[Quarterstaff]], [[Dart]]
 - **Save:** CON, CHA
-- **Tools:** 1 [[Skills]] of your choice
-- **Skills:** 1 [[Tools and Masteries|Tool]] of your choice
+- **Tools:** 1 [[Tools and Masteries|Tool]] of your choice 
+- **Skills:** 1 [[Skills]] of your choice
 
 # Features by level
 **Level 1**

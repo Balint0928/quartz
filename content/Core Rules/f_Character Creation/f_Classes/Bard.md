@@ -15,8 +15,8 @@ tags:
 - **Armor:** Light Armor, Medium Armor, Shield
 - **Weapons:** Simple Weapons, [[Longsword]], [[Rapier]], [[Shortsword]], [[Shortbow]] 
 - **Save:** DEX, CHA
-- **Tools:** One [[Skills]]
-- **Skills:** One [[Tools and Masteries|Tool]]
+- **Tools:** One [[Tools and Masteries|Tool]]
+- **Skills:** One [[Skills]]
 
 # Features by level
 **Level 1**

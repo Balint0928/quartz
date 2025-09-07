@@ -15,8 +15,8 @@ tags:
 - **Armor:** Light Armor
 - **Weapons:** Simple weapons
 - **Save:** WIS, CHA
-- **Tools:** One [[Skills]] 
-- **Skills:** One [[Tools and Masteries|Tool]]
+- **Tools:** One [[Tools and Masteries|Tool]]
+- **Skills:** One [[Skills]] 
 
 # Features by level
 **Level 1**
@@ -35,3 +35,5 @@ tags:
 - [[Otherworldly Gift]]
 
 
+## Spellcasting info
+You have a list of known Warlock spells. During each long rest, you can prepare a number of Warlock spells that equals your Warlock level + spellcasting modifier. A spell you prepare remain prepared until you prepare something else in its place. You can only cast spells that you have prepared. 
