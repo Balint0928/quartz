@@ -4,19 +4,19 @@ draft: false
 tags:
 ---
 # Arcane Foci
-| Type        | Mastery             |
-| ----------- | ------------------- |
-| [[Crystal]] | [[Residual Aether]] |
-| [[Staff]]   | [[Wizard's Staple]] |
-| [[Wand]]    | [[Flick and Swish]] |
+| Type        | Special             | Mastery          |
+| ----------- | ------------------- | ---------------- |
+| [[Crystal]] | [[Residual Aether]] | [[Orb Ponderer]] |
+| [[Staff]]   | [[Wizard's Staple]] | [[Rod Reign]]    |
+| [[Wand]]    | [[Flick and Swish]] | [[Wand Slinger]] |
 # Divine Foci
-| Type          | Mastery                |
+| Type          | Special                |
 | ------------- | ---------------------- |
 | [[Amulet]]    | [[Mend the weak]]      |
 | [[Emblem]]    | [[Protect the body]]   |
 | [[Reliquary]] | [[Relief of the mind]] |
 # Druidic Foci
-| Type             | Mastery                |
+| Type             | Special                |
 | ---------------- | ---------------------- |
 | [[Staff]]        | [[Wizard's Staple]]    |
 | [[Living Plant]] | [[Sweet Dew]]          |

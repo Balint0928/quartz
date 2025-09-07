@@ -54,4 +54,11 @@ tags:
 [[Leyline Feast]]
 
 # [[Warlock]]
-[[]]
+[[Eldritch Smite]]
+[[Rapid fire]]
+[[Far Scribe]]
+
+# [[Wizard]]
+[[Full Repertoire]]
+[[Implement Mastery]]
+[[School Adept]]
