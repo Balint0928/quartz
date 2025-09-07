@@ -10,5 +10,3 @@ tags:
 - Select a [[Stat Array]] to determine your character's starting ability scores. 
 - Take note of your [[Skills]].
 - Items depend on starting wealth, which is story dependent.
-
-
