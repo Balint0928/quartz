@@ -15,9 +15,16 @@ On your turn, you can take one of each of the following action types.
 
 Used to make attacks, use certain features and magic items, or to take the Dash, Disengage or Dodge action. You can also use your action to make an additional Knowledge check.
 
+Common actions:
+- [[Attack Action]]
+- [[Dash Action]]
+- [[Disengage Action]]
+- [[Dodge Action]]
+
 ### Bonus action
 
-Any feature that is used as a bonus action, or an additional Knowledge check.
+Any feature or spell that is used as a bonus action.
+- [[Offhand Attack]]
 
 ### Check action
 
@@ -33,7 +40,8 @@ You can take any number of free actions.
 
 ### Interaction
 
-You may interact with an item, draw or stow a weapon, etc...
+- Draw or Stow a weapon (You can use an interaction to switch a weapon you are wielding to another weapon)
+- Interact with an item or object. (Open a door, pull a leaver, light a torch etc.)
 
 
 # Damage & Dying
