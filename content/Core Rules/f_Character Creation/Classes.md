@@ -39,3 +39,5 @@ tags:
 - [[Magical]]
 - [[Mundane]]
 - [[Wanderer]]
+
+# [[Prestige Classes]]
