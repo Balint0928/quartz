@@ -17,6 +17,8 @@ tags:
 
 
 # Special Ancestries
+These Ancestries cannot be chosen as your second ancestry for a Mixed-Blood character.
+
 | Race             | Size   | Lineage                                                                | Ancestry feature                   | Proficiency                                            | Martial                | Mundane                     | Magic                   | Wanderer               |
 | ---------------- | ------ | ---------------------------------------------------------------------- | ---------------------------------- | ------------------------------------------------------ | ---------------------- | --------------------------- | ----------------------- | ---------------------- |
 | [[Eskhal]]       | Medium | Aziet, Chirak, As'tuq                                                  | [[Small Talk]]                     | Survival, Nature, Perception or Acrobatics             | [[Insectoid Weapon]]   | [[Poison Gland]]            | [[Aetheric Sustenance]] | [[Chameleon Carapace]] |
