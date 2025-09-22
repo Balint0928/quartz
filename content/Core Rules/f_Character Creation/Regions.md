@@ -23,3 +23,5 @@ The Lands of Iqor are divided into many regions. For now, these are the largest 
 | [[Ankha-Am]]              | [[Renenet's Claws]]        | [[Quat's Foresight]]    | [[Amutokh's Attunement]]    | [[Anxarch's Grace]]    |
 | [[The Ixalanti]]          | [[Venomous Sting]]         | [[Venom Tolerance]]     | [[Large prey, Large Spell]] | [[True Survivor]]      |
 | [[The Misted Lands]]      | [[Sword of the South]]     | [[Misted Aether]]       | [[Infused Spells]]          | [[Aether in my veins]] |
+| [[Foreigner]]*            | [[Foreign Tactics]]        | [[Foreign Customs]]     | [[Foreign Casting]]         | [[Foreign Footwork]]   |
+- Foreigner*: Any Ancestry can select foreigner except for [[Eskhal]] and [[Anubian]]. [[Planetouched]] must choose Foreigner
