@@ -75,6 +75,8 @@ tags:
 | [[Wakizashi]]          | 1d6 Slashing              | L        | [[finesse]], [[light]]                                           | 2        | [[Mada Mada]]      | [[Sugei!]]              |
 | [[Scythe]]             | 2d4 Slashing              | 2        | -                                                                | 6        | [[Grim Impale]]    | [[Improved Cleave]]     |
 | [[Twin-Blade]]         | 1d10 Slashing             | 2        | [[twin]], [[versatile]]                                          | 4        | [[Dancing Steel]]  | [[Wholesale Slaughter]] |
+| [[Macahuitl]]          | 1d8 Slashing              | 1        | -                                                                | 4        | [[Rending Slash]]  | [[Tear the Flesh]]      |
+
 
 # Weapon Properties
 - [[light]]

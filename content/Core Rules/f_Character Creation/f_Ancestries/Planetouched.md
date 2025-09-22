@@ -29,7 +29,7 @@ Genasi are influenced by the forces of the elements. They have been touched by o
 
 ## Water Genasi
 **Lineage feature**
-Gain Resistance to Cold damage that equals your proficiency bonus.
+Gain Resistance to Cold damage that equals your proficiency bonus. And you can breathe water as well.
 
 ## Earth Genasi
 **Lineage feature**
