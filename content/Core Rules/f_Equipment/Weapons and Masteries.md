@@ -76,6 +76,7 @@ tags:
 | [[Scythe]]             | 2d4 Slashing              | 2        | -                                                                | 6        | [[Grim Impale]]    | [[Improved Cleave]]     |
 | [[Twin-Blade]]         | 1d10 Slashing             | 2        | [[twin]], [[versatile]]                                          | 4        | [[Dancing Steel]]  | [[Wholesale Slaughter]] |
 | [[Macahuitl]]          | 1d8 Slashing              | 1        | -                                                                | 4        | [[Rending Slash]]  | [[Tear the Flesh]]      |
+| [[Khopesh]]            | 1d8 Slashing              | 1        | Special                                                          | 3        | [[Biting Blade]]   | [[Sweeping swing]]      |
 
 
 # Weapon Properties
@@ -96,3 +97,4 @@ tags:
 # Special
 - [[Whip]]: Attacks made with the whip do not damage armor or shields (cannot be reduced by AV), however an attack with a whip can be replaced with a shove or grapple action freely using the weapons statistics. Checks made in this way add your dexterity or your strength modifier. If this check succeeds, deal this weapon’s damage.
 - [[Net]]: A Large or smaller creature hit by a net is Restrained until it is freed. A net has no effect on creatures that are formless, or creatures that are Huge or larger. A creature can use its action to make a DC 10 Strength check, freeing itself or another creature within its reach on a success. Dealing 5 slashing damage to the net (DV 10) also frees the creature without harming it, ending the effect and destroying the net. When you use an action, bonus action, or reaction to attack with a Net, you can make only one attack regardless of the number of attacks you can normally make.
+- [[Khopesh]]: When you hit a creature wielding a shield, you can immediately make a contested athletics check against them. If you win, you disarm them from their shield. If the shield cannot be disarmed, the creature cannot benefit from it until the end of its next turn.
