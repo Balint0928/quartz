@@ -4,4 +4,4 @@ draft: false
 tags:
   - feat
 ---
-You gain proficiency in the Performance skill. If you already have proficiency, you gain the skill master of Performance. If you already have the [[skill mastery]], learn a new Song as per the [[Maestro]] feature.
+You gain proficiency in the Performance skill. If you already have proficiency, you gain the skill master of Performance. If you already have the [[Skill Mastery]], learn a new Song as per the [[Maestro]] feature.

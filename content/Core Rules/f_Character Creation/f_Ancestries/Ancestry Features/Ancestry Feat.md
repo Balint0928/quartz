@@ -21,3 +21,9 @@ tags:
 - You gain an additional use of your [[Versatile Warfare]], [[Versatile Magic]] or [[Versatile Mastery]] an additional time per their respective rests.
 - [[Versatile Backpack]] increases to 4 [[Bulk]]. extra carrying capacity.
 - You gain the lineage feature of your [[Mixed Blood]].
+
+# [[Halfling]]
+[[Boundless Joy]]:
+- Gain +2 permanent AP
+- Your [[True Luck]] feature now affects all allies within 10 feet of you.
+- This does not affect other halflings

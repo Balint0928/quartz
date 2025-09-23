@@ -9,7 +9,7 @@ tags:
 **Sword Oath:** While your [[Aetherial Arms]] feature is empowering your weapon it glows with a shining light. The weapons emits bright light in a 20-foot radius and dim light for an additional 20 feet. Additionally you can add your current AP to the bonus damage from [[Aetherial Arms]].
 
 ### Great Knight
-**Shield Oath:** While your [[Aetherial Arms]] feature is empowering your shield it glows with a shining light. The shield emits bright light in a 20-foot radius and dim light for an additional 20 feet. Additionally, when [[aetherial arms]] is empowering your shield, the shield’s bonus AV is increased by your proficiency bonus instead of half of the value.
+**Shield Oath:** While your [[Aetherial Arms]] feature is empowering your shield it glows with a shining light. The shield emits bright light in a 20-foot radius and dim light for an additional 20 feet. Additionally, when [[Aetherial Arms]] is empowering your shield, the shield’s bonus AV is increased by your proficiency bonus instead of half of the value.
 
 ### Crusader
 **Divine Crusader:** You choose a [[Deity]] as per the [[Cleric]]'s feature. The chosen Deity provides you with 2 of their Divine Focus points.
