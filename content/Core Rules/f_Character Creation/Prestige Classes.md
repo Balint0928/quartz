@@ -30,12 +30,34 @@ The following prestige classes grants you abilities of the class that you are NO
 - If a dual class shares 2 of the same role, then they must choose one of them for the point above.
 - If a dual class does not share any roles, then they choose a 10th level feature belonging to a role of their second class.
 
-## Barbarian
+## [[Barbarian]]
 
 | Second Class | Prestige Class        |
 | ------------ | --------------------- |
 | [[Fighter]]  | [[Ancestral Warrior]] |
 | [[Bard]]     | [[Skald]]             |
-| [[Cleric]]   |                       |
-| [[Monk]]     |                       |
-| [[Sorcerer]] |                       |
+| [[Cleric]]   | [[Shaman]]            |
+| [[Monk]]     | [[Sura]]              |
+
+## [[Bard]]
+
+| Second Class  | Prestige Class    |
+| ------------- | ----------------- |
+| [[Barbarian]] | [[Skald]]         |
+| [[Cleric]]    | [[Evangelist]]    |
+| [[Druid]]     | [[Damhsóir]]      |
+| [[Fighter]]   | [[Battle Herald]] |
+## [[Cleric]]
+
+| Second Class  | Prestige Class     |
+| ------------- | ------------------ |
+| [[Barbarian]] | [[Skald]]          |
+| [[Bard]]      | [[Evangelist]]     |
+| [[Monk]]      | [[Abolisher]]      |
+| [[Wizard]]    | [[Mystic Theurge]] |
+
+## [[Druid]]
+| Second Class | Prestige Class |
+| ------------ | -------------- |
+| [[Bard]]     | [[Damhsóir]]   |
+|              |                |

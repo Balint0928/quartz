@@ -9,7 +9,7 @@ Trance is when a barbarian's passion governs them and lands them prowess in batt
 
 - Rage: You gain bonus to your Strength based damage rolls, checks and saves that equals your proficiency bonus.
 - Desperation: You can make an extra attack as a bonus action each turn.
-- Recklessness: Your attack rolls are made with advantage and attack rolls against you are made with advantage.
+- Recklessness: Your weapon attack rolls are made with advantage and attack rolls against you are made with advantage.
 
 You can use a bonus action on your turn to switch between emotions.
 

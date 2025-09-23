@@ -77,6 +77,8 @@ tags:
 | [[Twin-Blade]]         | 1d10 Slashing             | 2        | [[twin]], [[versatile]]                                          | 4        | [[Dancing Steel]]  | [[Wholesale Slaughter]] |
 | [[Macahuitl]]          | 1d8 Slashing              | 1        | -                                                                | 4        | [[Rending Slash]]  | [[Tear the Flesh]]      |
 | [[Khopesh]]            | 1d8 Slashing              | 1        | Special                                                          | 3        | [[Biting Blade]]   | [[Sweeping swing]]      |
+| [[Battle Banner]]      | 1d6 Bludgeoning           | 1        | [[thrown]](20/60), [[versatile]], [[reach]]                      | 2        | [[Overwatch]]      | [[Braced attack]]       |
+
 
 
 # Weapon Properties
