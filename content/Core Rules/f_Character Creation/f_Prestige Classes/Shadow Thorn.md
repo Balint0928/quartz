@@ -15,7 +15,7 @@ tags:
 - [[Professional Poisoner]]
 - [[Infused Poisons]]
 - [[Druid]] gets: [[Sneak Attack]]
-- [[Rogue]] gets: [[Spellcasting]], [[Dance of Spirits]]
+- [[Rogue]] gets: [[Spellcasting]], [[Spellcasting Progression]], [[Dance of Spirits]]
 
 **Level 7**
 - [[Druid]] gets: [[Cunning Action]]

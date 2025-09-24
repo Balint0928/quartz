@@ -20,4 +20,4 @@ Whenever you or a friendly creature within 10 feet of you must make a saving thr
 ### Crusader
 **Aura of Faith:** You constantly emanate a soothing aura while you’re not incapacitated. The aura extends 10 feet from you in every direction, but not through total cover.
 
-When you cast a paladin spell, as a bonus action you can recycle the Aether of the spell, and gain the ability to use [[Aether Channel]].
+When you cast a paladin spell, as a bonus action you can recycle the Aether of the spell, healing yourself and a number of creatures equal to half your proficiency bonus (rounded down) by a number of hit points equal to your Charisma ability modifier.

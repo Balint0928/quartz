@@ -14,7 +14,7 @@ tags:
 **Level 6**
 - [[Aether Warrior]]
 - [[Inspiring Weapon]]
-- [[Barbarian]] gets: [[Spellcasting]], [[Inspiration]]
+- [[Barbarian]] gets: [[Spellcasting]], [[Spellcasting Progression]], [[Inspiration]]
 - [[Bard]] gets: [[Savage Defense]], [[Danger Sense]] 
 
 **Level 7**

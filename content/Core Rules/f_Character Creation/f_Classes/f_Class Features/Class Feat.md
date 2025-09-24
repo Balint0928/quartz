@@ -62,3 +62,8 @@ tags:
 [[Full Repertoire]]
 [[Implement Mastery]]
 [[School Adept]]
+
+# [[Paladin]]
+[[By thy Blade]]
+[[By thy Plate]]
+[[By thy Shield]]

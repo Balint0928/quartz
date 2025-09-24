@@ -9,3 +9,4 @@ tags:
 - ## [[Combat]]
 - ## [[Equipment]]
 - ## [[Adventuring]]
+- ## [[Spellcasting Wellsprings]]

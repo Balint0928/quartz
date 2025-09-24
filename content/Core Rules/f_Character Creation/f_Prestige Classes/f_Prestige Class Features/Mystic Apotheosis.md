@@ -4,6 +4,9 @@ draft: false
 tags:
   - class_feature
 ---
-Whenever you would gain AP, you may reduce the amount of AP you would gain by 1. This ability can activate a total number of times equal to your character level per long rest.
+If you possess the [[Lesser Arcane Apotheosis]] or [[Lesser Divine Apotheosis]] Feat you lose that feat and may replace it with an applicable feat. In exchange you receive the following feature, that has all the same rules applicable to it as any Apotheosis feat.
 
-Additionally, once per [[Extended Rest]], when you reach your maximum AP, instead of a magical event, you enter Apotheosis. Until the end of your next turn, you take half damage from all damage sources, and you can cast two spells using spell slots, when you would cast only one if you expend a Divine Focus. (This also includes cantrips)
+## Mystic Apotheosis
+- Whenever you would gain AP, reduce the amount gained by 1. You can do so a number of times that equals your character level per [[long rest]].
+- While the Apotheosis lasts, you gain resistance to all damage during your apotheosis, that equals twice your total [[Magical]] level. 
+- While the Apotheosis lasts, you may cast two spells at the same time when you would normally cast only 1. You must have both hands free (or using focuses). The spells must share the same action type to cast and all normal rules still apply.

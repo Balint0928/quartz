@@ -14,8 +14,8 @@ tags:
 **Level 6**
 - [[Shifting Steps]]
 - [[Dance of Magic]]
-- [[Bard]] gets: [[Spellcasting]], [[Dance of Spirits]]
-- [[Druid]] gets: [[Spellcasting]], [[Inspiration]]
+- [[Bard]] gets: [[Spellcasting]], [[Spellcasting Progression]], [[Dance of Spirits]]
+- [[Druid]] gets: [[Spellcasting]], [[Spellcasting Progression]], [[Inspiration]]
 
 **Level 7**
 - [[Bard]] gets: [[Primal Syphon]]

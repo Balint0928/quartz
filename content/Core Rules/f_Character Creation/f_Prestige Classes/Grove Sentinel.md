@@ -15,7 +15,7 @@ tags:
 - [[Sentinel's Watch]]
 - [[Skin of Stone]]
 - [[Druid]] gets: [[Spirit]], [[Spirited Defense]], [[Martial Arts]]
-- [[Monk]] gets: [[Spellcasting]], [[Dance of Spirits]]
+- [[Monk]] gets: [[Spellcasting]], [[Spellcasting Progression]], [[Dance of Spirits]]
 
 **Level 7**
 - [[Druid]] gets: [[Focused Spirit]], [[Mantras]]

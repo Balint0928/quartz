@@ -26,7 +26,7 @@ You gain a special cantrip from your patron, that is unique to each patron. This
 - Great Old One: [[Psychic Blast]]
 - Fey: [[Elder Blast]]
 - Celestial: [[Divine Blast]]
-- Undead: [[Ghast Blast]]
+- Undead: [[Ghostly Blast]]
 
 ### Pact Arcana
 Each Patron grants access to new spells to their servants at the following levels. These spells are added to your known spells.

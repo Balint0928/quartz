@@ -14,8 +14,8 @@ tags:
 **Level 6**
 - Gain the [[Mana of War]]
 - [[Otherworldly Fealty]]
-- [[Paladin]] gets: [[Spellcasting]], [[Occult Arcanum]]
-- [[Warlock]] gets: [[Spellcasting]], [[Aetherial Arms]], [[Sacred Oath]]
+- [[Paladin]] gets: [[Spellcasting]], [[Spellcasting Progression]], [[Occult Arcanum]]
+- [[Warlock]] gets: [[Spellcasting]], [[Spellcasting Progression]], [[Aetherial Arms]], [[Sacred Oath]]
 
 **Level 7**
 - [[Paladin]] gets: [[Heretic's Hunger]], [[Eldritch Invocation]]

@@ -15,7 +15,7 @@ tags:
 - [[Aether Drain]]
 - [[Dispelling Touch]]
 - [[Cleric]] gets: [[Spirit]], [[Spirited Defense]], [[Martial Arts]]
-- [[Monk]] gets: [[Spellcasting]], [[Deity]], [[Domain Spells]]
+- [[Monk]] gets: [[Spellcasting]], [[Spellcasting Progression]], [[Deity]], [[Domain Spells]]
 
 **Level 7**
 - [[Cleric]] gets: [[Focused Spirit]]

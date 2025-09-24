@@ -14,7 +14,7 @@ tags:
 **Level 6**
 - [[Burning Spirit]]
 - [[Spirit Spell]]
-- [[Monk]] gets: [[Spellcasting]], [[Font of Aether]]
+- [[Monk]] gets: [[Spellcasting]], [[Spellcasting Progression]], [[Font of Aether]]
 - [[Sorcerer]] gets: [[Spirit]], [[Martial Arts]], [[Spirited Defense]]
 
 **Level 7**

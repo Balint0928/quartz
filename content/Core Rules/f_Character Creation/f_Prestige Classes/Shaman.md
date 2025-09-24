@@ -14,7 +14,7 @@ tags:
 **Level 6**
 - [[Blood of the Fallen]]
 - [[Shamanic Chant]]
-- [[Barbarian]] gets: [[Spellcasting]], [[Deity]], [[Domain Spells]]
+- [[Barbarian]] gets: [[Spellcasting]], [[Spellcasting Progression]] [[Deity]], [[Domain Spells]]
 - [[Cleric]] gets: [[Savage Defense]], [[Danger Sense]]
 
 **Level 7**

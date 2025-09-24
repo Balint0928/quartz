@@ -15,7 +15,7 @@ tags:
 - [[Herald's Arms]]
 - [[Herald's Command]]
 - [[Bard]] gets: [[Second Wind]], [[Warrior’s Soul]]
-- [[Fighter]] gets: [[Spellcasting]], [[Inspiration]]
+- [[Fighter]] gets: [[Spellcasting]], [[Spellcasting Progression]], [[Inspiration]]
 
 **Level 7**
 - [[Bard]] gets: [[Action Surge]]

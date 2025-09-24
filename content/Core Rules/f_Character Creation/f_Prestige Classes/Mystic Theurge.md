@@ -14,8 +14,8 @@ tags:
 **Level 6**
 - [[Mystic Studies]]
 - [[Mystic Apotheosis]]
-- [[Cleric]] gets: [[Spellcasting]], [[Arcane Grimoire]], Arcana proficiency
-- [[Wizard]] gets: [[Spellcasting]], [[Deity]]
+- [[Cleric]] gets: [[Spellcasting]], [[Spellcasting Progression]], [[Arcane Grimoire]], Arcana proficiency
+- [[Wizard]] gets: [[Spellcasting]], [[Spellcasting Progression]], [[Deity]]
 
 **Level 7**
 - [[Cleric]] gets: [[Chant]]

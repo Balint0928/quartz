@@ -15,7 +15,7 @@ tags:
 - [[Contrition]]
 - [[Tools of Absolution]]
 - [[Paladin]] gets: [[Sneak Attack]]
-- [[Rogue]] gets: [[Spellcasting]], [[Aetherial Arms]], [[Sacred Oath]]
+- [[Rogue]] gets: [[Spellcasting]], [[Spellcasting Progression]], [[Aetherial Arms]], [[Sacred Oath]]
 
 **Level 7**
 - [[Paladin]] gets: [[Cunning Action]]

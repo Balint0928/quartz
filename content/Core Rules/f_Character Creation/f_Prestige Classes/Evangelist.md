@@ -14,8 +14,8 @@ tags:
 **Level 6**
 - [[Hospitaler]]
 - [[Call to the Dying]]
-- [[Bard]] gets: [[Spellcasting]], [[Deity]], [[Domain Spells]]
-- [[Cleric]] gets: [[Spellcasting]], [[Inspiration]]
+- [[Bard]] gets: [[Spellcasting]], [[Spellcasting Progression]], [[Deity]], [[Domain Spells]]
+- [[Cleric]] gets: [[Spellcasting]], [[Spellcasting Progression]], [[Inspiration]]
 
 **Level 7**
 - [[Bard]] gets: [[Hymn]]

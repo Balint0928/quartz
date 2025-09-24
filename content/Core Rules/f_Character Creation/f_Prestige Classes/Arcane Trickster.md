@@ -14,7 +14,7 @@ tags:
 **Level 6**
 - [[Spell Shave]]
 - [[Quietus Arcanum]]
-- [[Rogue]] gets: [[Spellcasting]], [[Arcane Grimoire]], Arcana proficiency
+- [[Rogue]] gets: [[Spellcasting]], [[Spellcasting Progression]], [[Arcane Grimoire]], Arcana proficiency
 - [[Wizard]] gets: [[Sneak Attack]]
 
 **Level 7**

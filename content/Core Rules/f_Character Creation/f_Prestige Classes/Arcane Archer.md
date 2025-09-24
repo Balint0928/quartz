@@ -14,7 +14,7 @@ tags:
 **Level 6**
 - [[Mana of War]]
 - [[Arcane Arrow]]
-- [[Ranger]] gets: [[Spellcasting]], [[Arcane Grimoire]], Arcana proficiency
+- [[Ranger]] gets: [[Spellcasting]], [[Spellcasting Progression]] [[Arcane Grimoire]], Arcana proficiency
 - [[Wizard]] gets: [[Hunter's Mark]], [[Lay of the Land]]
 
 **Level 7**

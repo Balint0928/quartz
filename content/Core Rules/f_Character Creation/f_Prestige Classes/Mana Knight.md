@@ -14,7 +14,7 @@ tags:
 **Level 6**
 - [[Tome of War]]
 - [[Mana of War]]
-- [[Fighter]] gets: [[Spellcasting]], [[Arcane Grimoire]], Arcana proficiency
+- [[Fighter]] gets: [[Spellcasting]], [[Spellcasting Progression]], [[Arcane Grimoire]], Arcana proficiency
 - [[Wizard]] gets: [[Second Wind]], [[Warrior’s Soul]]
 
 **Level 7**
