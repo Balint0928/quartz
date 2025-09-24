@@ -16,13 +16,15 @@ There are two main lineages in Nekotar culture. Keepers and Seekers
 Seekers have a more agile and athletic build. Their senses are honed to find and seek prey and adventure alike.
 
 
-**Lineage feature**
+**Lineage feature:**
+- [[Feline Grace]]
 You gain dark vision in a range of 30 feet, and proficiency in the Athletics or Acrobatics skill
 
 ## Keeper Nekotar
 Keepers are known to be more curious, hungry for knowledge. They are also characterized by thicker body hair and more pronounced feline features.
 
 
-**Lineage feature**
+**Lineage feature:**
+- [[Feline Wisdom]]
 Gain proficiency with an extra skill and Tool of your choice.
 

@@ -17,12 +17,13 @@ As a child of the rolling hills and verdant plains, you are quick on your feet, 
 
 
 **Lineage feature:**
-**Halfling Reflexes:** Gain proficiency in Perception. Additionally, the first time a creature that is at least one size larger than you, attacks you in combat, they have disadvantage on their attack.
+- [[Halfling Reflexes]]
+Gain proficiency in Perception. Additionally, the first time a creature that is at least one size larger than you, attacks you in combat, they have disadvantage on their attack.
 
 ## Dunesfolk
 As a Dunesfolk, you've adapted to the harsh desert environments and thrived. The land from which you hail is known for its riches and merchantry as much as its known for his corruption.
 
 
-**Lineage feature**
-**Eyes of the Dunes:** 
+**Lineage feature:**
+- [[Eyes of the Dunes ]]
 Your eyes have developed a film to protect them from desert conditions. You have advantage on saving throws against being blinded. Additionally, you have advantage on the first social skill check you make dealing with trade and rewards for services.

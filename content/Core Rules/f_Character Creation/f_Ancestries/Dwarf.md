@@ -14,21 +14,24 @@ Dwarves, after so many millennia, still cling to their roots and customs, and ar
 A lineage that is drawn to to the high mountains and plateaus. These dwarves are masters of living at high altitudes. They get their names from the silvery sheen of their skin, as dwarves believe that Silver is associated with the sky and the air, so they sculpt their kin from this metal.
 
 
-**Lineage feature**
+**Lineage feature:**
+- [[The Silverbeard]]
 30 Feet climbing speed, and ignore fall damage for an amount of feet that equals 5 x your CON (min1)
 
 ## Golden Dwarf
 
 A lineage who dwell in many diverse places of the world, but mainly near and around Human settlements and metropolitan areas. These dwarves have a golden skin, and believe that gold is the ore of kings, and so they are natural rulers, merchants and wealth seekers.
 
-**Lineage feature**
-Resistance 2 to poison and advantage on poison saving throws.
+**Lineage feature:**
+- [[The Golden Tooth]]
+Resistance to poison that equals your proficiency bonus and advantage on poison saving throws.
 
 
 ## Obsidian Dwarf
 
 A lineage who usually dwell below the earth, in deep caverns and tunnels. Their shiny obsidian skin is tough and their eyes are well adjusted to the darkness.
 
-**Lineage feature**
+**Lineage feature:**
+- [[The Obsidian Eye]]
 Dark vision 60 feet
 

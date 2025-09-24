@@ -12,5 +12,5 @@ While many half-bloods are ostracized by their parents communities, dwarven half
 
 # Lineage
 
-**Adopted Lineage**
+- [[Adopted Lineage]]
 You gain +1 bonus to one ability score

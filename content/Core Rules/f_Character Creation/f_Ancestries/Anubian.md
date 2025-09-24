@@ -11,6 +11,6 @@ The Anubians are tall and lean, with graceful bodies and heads that strongly res
 Nearly every Anubian is born an identical twin, and a pair of Anubian twins forms an extremely close emotional bond unknown to most other residents of Iqor. The death of one twin causes a tremendous shock to the survivor, who typically grows more aggressive and foolhardy in battle. The rare Anubian who are born without twins are believed to have killed their siblings in the womb.
 
 # Lineages
-
+- [[Bound By Birth]]
 Instead of lineages, Anubians are categorized by having a twin or not.
 If your twin is alive and you can see your twin, whenever you roll a 1 on an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll. If your twin is dead (or if you were born without a twin), you can't be frightened.
