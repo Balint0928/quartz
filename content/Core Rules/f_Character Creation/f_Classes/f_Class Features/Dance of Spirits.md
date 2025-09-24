@@ -1,5 +1,5 @@
 ---
-title: Totem Spirit
+title: Dance of Spirits
 draft: false
 tags:
   - class_feature

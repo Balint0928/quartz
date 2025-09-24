@@ -57,7 +57,73 @@ The following prestige classes grants you abilities of the class that you are NO
 | [[Wizard]]    | [[Mystic Theurge]] |
 
 ## [[Druid]]
+| Second Class | Prestige Class     |
+| ------------ | ------------------ |
+| [[Bard]]     | [[Damhsóir]]       |
+| [[Monk]]     | [[Grove Sentinel]] |
+| [[Rogue]]    | [[Shadow Thorn]]   |
+
+## [[Fighter]]
+| Second Class  | Prestige Class        |
+| ------------- | --------------------- |
+| [[Barbarian]] | [[Ancestral Warrior]] |
+| [[Bard]]      | [[Battle Herald]]     |
+| [[Monk]]      | [[Wandering Warrior]] |
+| [[Wizard]]    | [[Mana Knight]]       |
+## [[Monk]]
+| Second Class  | Prestige Class        |
+| ------------- | --------------------- |
+| [[Barbarian]] | [[Sura]]              |
+| [[Cleric]]    | [[Abolisher]]         |
+| [[Druid]]     | [[Grove Sentinel]]    |
+| [[Fighter]]   | [[Wandering Warrior]] |
+| [[Sorcerer]]  | [[Spirit Weaver]]     |
+## [[Paladin]]
+
 | Second Class | Prestige Class |
 | ------------ | -------------- |
-| [[Bard]]     | [[Damhsóir]]   |
-|              |                |
+| [[Rogue]]    | [[Avenger]]    |
+| [[Warlock]]  | [[Emissary]]   |
+## [[Ranger]]
+| Second Class | Prestige Class    |
+| ------------ | ----------------- |
+| [[Rogue]]    | [[Bounty Hunter]] |
+| [[Wizard]]   | [[Arcane Archer]] |
+## [[Rogue]]
+| Second Class | Prestige Class       |
+| ------------ | -------------------- |
+| [[Druid]]    | [[Shadow Thorn]]     |
+| [[Paladin]]  | [[Avenger]]          |
+| [[Ranger]]   | [[Bounty Hunter]]    |
+| [[Wizard]]   | [[Arcane Trickster]] |
+## [[Sorcerer]]
+| Second Class | Prestige Class    |
+| ------------ | ----------------- |
+| [[Monk]]     | [[Spirit Weaver]] |
+## [[Warlock]]
+| Second Class | Prestige Class |
+| ------------ | -------------- |
+| [[Paladin]]  | [[Emissary]]   |
+## [[Wizard]]
+| Second Class | Prestige Class       |
+| ------------ | -------------------- |
+| [[Cleric]]   | [[Mystic Theurge]]   |
+| [[Fighter]]  | [[Mana Knight]]      |
+| [[Ranger]]   | [[Arcane Archer]]    |
+| [[Rogue]]    | [[Arcane Trickster]] |
+# Regional Prestige Classes
+The following classes are not regionally locked, they just represent where these prestige classes would be from.
+
+## [[Sleepless Sands]]
+
+## [[Steppes of Azul]]
+
+## [[Sea of Thousand Tears]]
+
+## [[Ankha-Am]]
+
+## [[The Ixalanti]]
+
+## [[The Misted Lands]]
+
+
