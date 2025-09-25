@@ -4,4 +4,4 @@ draft: false
 tags:
   - weapon_special
 ---
-If the creature has no armor and shield you add your modifier twice to the damage dealt.
+This weapon deals [[Bleed]] damage equal to the [[Heft]] of this weapon, which stacks with others sources.

@@ -20,6 +20,8 @@ Common actions:
 - [[Dash Action]]
 - [[Disengage Action]]
 - [[Dodge Action]]
+- [[Help Action]]
+- [[Stabilize Action]]
 
 ### Bonus action
 

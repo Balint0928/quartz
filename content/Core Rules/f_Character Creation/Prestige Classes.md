@@ -115,7 +115,7 @@ The following prestige classes grants you abilities of the class that you are NO
 The following classes are not regionally locked, they just represent where these prestige classes would be from.
 
 ## [[Sleepless Sands]]
-
+- [[Dervish]]
 ## [[Steppes of Azul]]
 
 ## [[Sea of Thousand Tears]]

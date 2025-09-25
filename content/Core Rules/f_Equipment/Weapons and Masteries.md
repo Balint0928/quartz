@@ -7,17 +7,17 @@ tags:
 # Simple Melee Weapons
 
 | Name             | Damage          | [[Bulk]] | Properties                                         | [[Heft]] | Special                 | Mastery            |
-| ---------------- | --------------- | -------- | -------------------------------------------------- | ---- | ----------------------- | ------------------ |
-| [[Club]]         | 1d4 bludgeoning | 1        | [[light]]                                          | -    | [[Dirty Trick]]         | [[Dirt Cheap]]     |
-| [[Dagger]]       | 1d4 piercing    | L        | [[Finesse]], [[light]], [[thrown]] (range 20/60)   | -    | [[Puncture]]            | [[Bloodletter]]    |
-| [[Greatclub]]    | 1d8 bludgeoning | 2        | -                                                  | 4    | [[Pushback]]            | [[Sit down]]       |
-| [[Handaxe]]      | 1d6 slashing    | 1        | [[thrown]] (range 20/60)                           | 1    | [[Sweeping swing]]      | [[Follow up]]      |
-| [[Javelin]]      | 1d6 piercing    | L        | [[Thrown]] (range 30/120)                          | 1    | [[Pilum]]               | [[Beast feller]]   |
-| [[Light Hammer]] | 1d4 bludgeoning | L        | [[light]], [[thrown]] (range 20/60)                | 1    | [[Bounceback]]          | [[Battle Rhythm]]  |
-| [[Mace]]         | 1d6 bludgeoning | 1        | —                                                  | 2    | [[Hindering Blow]]      | [[Halting Blow]]   |
-| [[Quarterstaff]] | 1d6 bludgeoning | 1        | [[twin]], [[versatile]]                            | 2    | [[Defensive Stance]]    | [[Focused Stance]] |
-| [[Sickle]]       | 1d4 slashing    | L        | [[light]]                                          | -    | [[Turn away the blade]] | [[Biting Blade]]   |
-| [[Spear]]        | 1d6 piercing    | 1        | [[Thrown]] (range 20/60), [[reach]], [[versatile]] | 2    | [[Overwatch]]           | [[Braced attack]]  |
+| ---------------- | --------------- | -------- | -------------------------------------------------- | -------- | ----------------------- | ------------------ |
+| [[Club]]         | 1d4 bludgeoning | 1        | [[light]]                                          | -        | [[Dirty Trick]]         | [[Dirt Cheap]]     |
+| [[Dagger]]       | 1d4 piercing    | L        | [[Finesse]], [[light]], [[thrown]] (range 20/60)   | -        | [[Twist the Blade]]     | [[Bloodletter]]    |
+| [[Greatclub]]    | 1d8 bludgeoning | 2        | -                                                  | 4        | [[Pushback]]            | [[Sit down]]       |
+| [[Handaxe]]      | 1d6 slashing    | 1        | [[thrown]] (range 20/60)                           | 1        | [[Sweeping swing]]      | [[Follow up]]      |
+| [[Javelin]]      | 1d6 piercing    | L        | [[Thrown]] (range 30/120)                          | 1        | [[Pilum]]               | [[Beast feller]]   |
+| [[Light Hammer]] | 1d4 bludgeoning | L        | [[light]], [[thrown]] (range 20/60)                | 1        | [[Bounceback]]          | [[Battle Rhythm]]  |
+| [[Mace]]         | 1d6 bludgeoning | 1        | —                                                  | 2        | [[Hindering Blow]]      | [[Halting Blow]]   |
+| [[Quarterstaff]] | 1d6 bludgeoning | 1        | [[twin]], [[versatile]]                            | 2        | [[Defensive Stance]]    | [[Focused Stance]] |
+| [[Sickle]]       | 1d4 slashing    | L        | [[light]]                                          | -        | [[Turn away the blade]] | [[Biting Blade]]   |
+| [[Spear]]        | 1d6 piercing    | 1        | [[Thrown]] (range 20/60), [[reach]], [[versatile]] | 2        | [[Overwatch]]           | [[Braced attack]]  |
 
 
 # Simple Ranged Weapons
@@ -32,24 +32,24 @@ tags:
 # Martial Melee Weapons
 
 | Name            | Damage          | [[Bulk]] | Properties                 | [[Heft]] | Special                      | Mastery              |
-| --------------- | --------------- | -------- | -------------------------- | ---- | ---------------------------- | -------------------- |
-| [[Battleaxe]]   | 1d8 slashing    | 1        | —                          | 4    | [[Sweeping swing]]           | [[Deep Bite]]        |
-| [[Flail]]       | 1d8 bludgeoning | 1        | [[finesse]], [[versatile]] | 4    | [[Angled strike]]            | [[Cleaving strike]]  |
-| [[Glaive]]      | 1d10 slashing   | 2        | [[reach]]                  | 6    | [[Versatile blade]]          | [[Brace!]]           |
-| [[Greataxe]]    | 1d12 slashing   | 2        | —                          | 8    | [[Improved sweeping swing]]  | [[Improved Cleave]]  |
-| [[Greatsword]]  | 2d6 slashing    | 2        | —                          | 8    | [[Deep Cut]]                 | [[Kingslayer]]       |
-| [[Halberd]]     | 1d10 slashing   | 2        | [[reach]]                  | 8    | [[Thrusting blade]]          | [[Brace!]]           |
-| [[Lance]]       | 1d12 piercing   | 2        | [[Reach]], special         | 6    | [[Pushback]]                 | [[Rushing strike]]   |
-| [[Longsword]]   | 1d8 slashing    | 1        | —                          | 4    | [[Quick parry]]              | [[Prince slayer]]    |
-| [[Maul]]        | 2d6 bludgeoning | 2        | —                          | 8    | [[Pushback]]                 | [[Sit down]]         |
-| [[Morningstar]] | 1d8 piercing    | 1        | —                          | 3    | [[Spiked Smash]]             | [[Improved Impale]]  |
-| [[Pike]]        | 1d10 piercing   | 2        | [[reach]]                  | 8    | [[Chargestopper]]            | [[Brace!]]           |
-| [[Rapier]]      | 1d8 piercing    | 1        | [[finesse]], [[versatile]] | 3    | [[Dukeslayer]]               | [[Puncture]]         |
-| [[Scimitar]]    | 1d6 slashing    | 1        | [[Finesse]], [[versatile]] | 2    | [[Versatile blade]]          | [[Biting Blade]]     |
-| [[Shortsword]]  | 1d6 piercing    | L        | [[Finesse]], [[light]]     | 2    | [[Slice n’ Dice]]            | [[Duelist’s Backup]] |
-| [[Trident]]     | 1d6 piercing    | 1        | [[Thrown]] (range 20/60)   | 2    | [[Hindering Blow]]           | [[Impale]]           |
-| [[War Pick]]    | 1d8 piercing    | 1        | —                          | 3    | [[Impale]]                   | [[Miner’s Joy]]      |
-| [[Warhammer]]   | 1d8 bludgeoning | 1        | [[Dueling]]                | 3    | [[Improved Hindering Blows]] | [[Pound the nail]]   |
+| --------------- | --------------- | -------- | -------------------------- | -------- | ---------------------------- | -------------------- |
+| [[Battleaxe]]   | 1d8 slashing    | 1        | —                          | 4        | [[Sweeping swing]]           | [[Deep Bite]]        |
+| [[Flail]]       | 1d8 bludgeoning | 1        | [[finesse]], [[versatile]] | 4        | [[Angled strike]]            | [[Cleaving strike]]  |
+| [[Glaive]]      | 1d10 slashing   | 2        | [[reach]]                  | 6        | [[Versatile blade]]          | [[Brace!]]           |
+| [[Greataxe]]    | 1d12 slashing   | 2        | —                          | 8        | [[Improved sweeping swing]]  | [[Improved Cleave]]  |
+| [[Greatsword]]  | 2d6 slashing    | 2        | —                          | 8        | [[Deep Cut]]                 | [[Kingslayer]]       |
+| [[Halberd]]     | 1d10 slashing   | 2        | [[reach]]                  | 8        | [[Thrusting blade]]          | [[Brace!]]           |
+| [[Lance]]       | 1d10piercing    | 2        | [[Reach]], special         | 6        | [[Pushback]]                 | [[Rushing strike]]   |
+| [[Longsword]]   | 1d8 slashing    | 1        | —                          | 4        | [[Quick parry]]              | [[Prince slayer]]    |
+| [[Maul]]        | 2d6 bludgeoning | 2        | —                          | 8        | [[Pushback]]                 | [[Sit down]]         |
+| [[Morningstar]] | 1d8 piercing    | 1        | —                          | 3        | [[Spiked Smash]]             | [[Improved Impale]]  |
+| [[Pike]]        | 1d10 piercing   | 2        | [[reach]]                  | 8        | [[Chargestopper]]            | [[Brace!]]           |
+| [[Rapier]]      | 1d8 piercing    | 1        | [[finesse]], [[versatile]] | 3        | [[Dukeslayer]]               | [[Puncture]]         |
+| [[Scimitar]]    | 1d6 slashing    | 1        | [[Finesse]], [[versatile]] | 2        | [[Curved Blade]]             | [[Biting Blade]]     |
+| [[Shortsword]]  | 1d6 piercing    | L        | [[Finesse]], [[light]]     | 2        | [[Slice n’ Dice]]            | [[Duelist’s Backup]] |
+| [[Trident]]     | 1d6 piercing    | 1        | [[Thrown]] (range 20/60)   | 2        | [[Hindering Blow]]           | [[Impale]]           |
+| [[War Pick]]    | 1d8 piercing    | 1        | —                          | 3        | [[Impale]]                   | [[Miner’s Joy]]      |
+| [[Warhammer]]   | 1d8 bludgeoning | 1        | [[Dueling]]                | 3        | [[Improved Hindering Blows]] | [[Pound the nail]]   |
 
 # Martial Ranged Weapons
 | Name                | Damage        | [[Bulk]] | Properties                                     | [[Heft]] | Special               | Mastery             |
@@ -78,6 +78,7 @@ tags:
 | [[Macahuitl]]          | 1d8 Slashing              | 1        | -                                                                | 4        | [[Rending Slash]]  | [[Tear the Flesh]]      |
 | [[Khopesh]]            | 1d8 Slashing              | 1        | Special                                                          | 3        | [[Biting Blade]]   | [[Sweeping swing]]      |
 | [[Battle Banner]]      | 1d6 Bludgeoning           | 1        | [[thrown]](20/60), [[versatile]], [[reach]]                      | 2        | [[Overwatch]]      | [[Braced attack]]       |
+| [[Dadao]]              | 1d10 Slashing             | 2        | [[finesse]], [[versatile]],                                      | 5        | [[Curved Blade]]   | [[Biting Blade]]        |
 
 
 

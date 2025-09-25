@@ -6,9 +6,9 @@ tags:
 ---
 When you are reduced to 0 HP, you gain the Dying condition, immediately fall Prone, and suffer a point of [[Exhaustion]].
 
-On your turn, you cannot take actions, bonus actions or reactions. You can only crawl. You can only take an Action, if you suffer two points of [[Exhaustion]], or one point for a Bonus Action.
+On your turn, you cannot take actions, bonus actions or reactions. You can only crawl. You can only take an Action, if you suffer two points of [[Exhaustion]], or one point for a Bonus Action. You gain three points for casting a spell regardless of its action type.
 
-Casting a spell of any level while downed also increases your AP by an amount that equals the spells level (1 for cantrips) + 1.
+Casting a spell of any level while downed also increases the amount of AP gained by 1.
 
 If you take damage while Downed, you also gain 1 point of Exhaustion, 2 if you suffer a critical hit.
 
