@@ -18,6 +18,7 @@ Used to make attacks, use certain features and magic items, or to take the Dash,
 Common actions:
 - [[Attack Action]]
 - [[Dash Action]]
+- [[Charge Action]]
 - [[Disengage Action]]
 - [[Dodge Action]]
 - [[Help Action]]
@@ -34,7 +35,8 @@ Make an [[Arcane Knowledge]] or a [[Martial Knowledge]] or a Perception check.
 
 ### Reaction
 
-Triggered by some effect.
+Triggered by some effect. 
+- [[Opportunity Attack]]
 
 ### Free Action
 

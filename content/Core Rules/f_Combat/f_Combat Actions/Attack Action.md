@@ -13,3 +13,5 @@ Some spells ask for an attack roll, which follow the same principles, and use th
 
 Rolling a 1 on the d20 is a critical miss, regardless of your added bonuses
 Rolling a 20 on the d20 is a critical hit, and instantly hits the target regardless your added bonuses. A critical hit doubles the number of rolled dice for the attack.
+
+Sometimes, certain features allow you to make special attacks, called [[Light Attack]]s.

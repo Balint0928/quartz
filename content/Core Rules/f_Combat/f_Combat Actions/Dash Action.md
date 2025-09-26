@@ -5,4 +5,4 @@ tags:
   - action
   - combat
 ---
-You can take another Move action.
+You can move up to your speed as an action.

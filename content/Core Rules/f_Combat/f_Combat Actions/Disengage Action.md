@@ -5,4 +5,4 @@ tags:
   - action
   - combat
 ---
-When you take this action, your movement cannot trigger movement based reactions from creatures. Additionally, your movement increases by 5 feet.
+When you take this action, you can immediately move 5 feet. Your movement cannot trigger [[Opportunity Attack]]s from creatures until the end of your turn. 
