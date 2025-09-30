@@ -64,12 +64,12 @@ When a table says L, substitute the level of the spell.
 ### The Spell targets allies
 | d8  | Effect Title | Spell Effect                                                                                                                                   |
 | --- | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | Dexterous    | For 1+L rounds, the targets' movements cannot trigger reactions. ([[Taunt]], [[Overwatch]] etc.)                                               |
+| 1   | Dexterous    | For 1+L rounds, the targets' movements cannot trigger reactions. ([[Taunt]], [[Overwatch]], [[Opportunity Attack]] etc.)                       |
 | 2   | Accelerating | For 1 minute, before taking their action, the targets can move an extra 5 + 5xL feet.                                                          |
 | 3   | Energizing   | Until the start of your next turn, the targets add 1 + L to their attack rolls and Spell save DCs.                                             |
 | 4   | Oracular     | For 1 + L rounds, the targets can add your spellcasting ability modifier to any [[Arcane Knowledge]] or [[Martial Knowledge]] check they make. |
 | 5   | Fated        | Until the start of your next turn, targets can reroll 1 + L damage rolls, and take the new result.                                             |
-| 6   | Vengeful     | For 1 + L rounds, the targets can use their reaction to make a melee weapon attack against an enemy that landed an attack against them.        |
+| 6   | Vengeful     | For 1 + L rounds, the targets can use a free action to make a melee [[Light Attack]] against an enemy that landed an attack against them.      |
 | 7   | Revealing    | Until the start of your next turn, targets who succeed on [[Arcane Knowledge]] or [[Martial Knowledge]] checks learn +1 information.           |
 | 8   | Gloating     | For 1 minute, the first time one of the targets reduce a creature to 0 HP, that target gains 1 extra action.                                   |
 
@@ -103,12 +103,12 @@ If the spell deals damage, your modification also can also change the damage typ
 
 | 1d10 | Damage type | Effect Title  | Spell Effect                                                                                                                                                 |
 | ---- | ----------- | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1    | Acid        | Corroding     | Target's AV is reduced by 1 + L/2                                                                                                                            |
+| 1    | Acid        | Corroding     | Target's AV is reduced by L/2.                                                                                                                               |
 | 2    | Cold        | Chilling      | Affected targets have their speed reduced by 5 + 5xL until the end of their next turn                                                                        |
 | 3    | Fire        | Incinerating  | Targets take an extra amount of damage at the end of their next turn that equals your spellcasting mod + L, unless they use an action to put out the flames. |
 | 4    | Force       | Detonating    | Affected targets must succeed on a strength save or be knocked prone. (+1 x L to your save DC)                                                               |
 | 5    | Lightning   | Shocking      | Affected targets cannot take reactions until the end of their next turn.                                                                                     |
-| 6    | Necrotic    | Draining      | The takes 1 + L amount of Exhaustion if it fails a constitution save.                                                                                        |
+| 6    | Necrotic    | Draining      | The takes 1 + L/2 amount of Exhaustion if it fails a constitution save.                                                                                      |
 | 7    | Poison      | Nauseating    | Each target must succeed on a CON save or must use their action to throw up on their next turn.                                                              |
 | 8    | Psychic     | Hallucinating | Effected targets see multiple of you, and have disadvantage on their attack rolls against you until the end of their next turn.                              |
 | 9    | Radiant     | Dazzling      | Targets shed bright light in a 10 foot radius, and cannot become invisible until the end of your next turn.                                                  |
@@ -116,8 +116,8 @@ If the spell deals damage, your modification also can also change the damage typ
 
 If your spell deals physical damage roll on this table:
 
-| 1d6 | Damage type | Effect Title | Spell Effect                                                                                             |
-| --- | ----------- | ------------ | -------------------------------------------------------------------------------------------------------- |
-| 1-2 | Bludgeoning | Sundering    | For 1 minute, the next time the target rolls AV to reduce damage, it must subtract 2 + L from each roll. |
-| 3-4 | Piercing    | Puncturing   | The next attack roll against affected targets have their Critical Threshold increased by 1 + L           |
-| 5-6 | Slashing    | Wounding     | Each target gains 1+L [[Bleed]]                                                                          |
+| 1d6 | Damage type | Effect Title | Spell Effect                                                                                   |
+| --- | ----------- | ------------ | ---------------------------------------------------------------------------------------------- |
+| 1-2 | Bludgeoning | Sundering    | For L amount of turns (if 0 just against the next attack), the targets DV is reduced by 2.     |
+| 3-4 | Piercing    | Puncturing   | The next attack roll against affected targets have their Critical Threshold increased by 1 + L |
+| 5-6 | Slashing    | Wounding     | Each target gains 1+L [[Bleed]]                                                                |

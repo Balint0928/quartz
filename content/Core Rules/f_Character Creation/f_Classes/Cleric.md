@@ -20,7 +20,7 @@ tags:
 
 # Features by level
 **Level 1**
-- [[Deity]], [[Domain Spells]]
+- [[Deity]], [[Domain Spells]], [[Blessing of the Chosen]]
 
 **Level 2**
 - [[Channel Divinity]], [[Hymn]]

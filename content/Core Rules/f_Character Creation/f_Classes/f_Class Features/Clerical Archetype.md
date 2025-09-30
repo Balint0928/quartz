@@ -23,7 +23,7 @@ When you enter combat, and you are using a weapon your deity favors, you can exp
 
 - You learn two new languages, even druidic or thieves cant
 
-- When you use your Hymn ability, you can also regain 1 AFP
+- When you use your Hymn ability, you can also reduce your AP by 1
 
 ### Channel Divinity - Guide the Flock
 
