@@ -4,4 +4,4 @@ draft: false
 tags:
   - weapon_special
 ---
-If a creature enters your reach, you can use a reaction to make a melee attack against them.
+If a creature enters your reach, you can use a reaction to make an [[Opportunity Attack]] against them.

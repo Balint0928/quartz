@@ -10,7 +10,7 @@ tags:
 | -------------------- | ---- | -------------------- | ---- | ----------------------------------- | ---------------- | ------------------ |
 | [[Reinforced Cloth]] | 5    | 2                    | L    | [[Comfortable]],  <br>[[Concealed]] | [[Mana threads]] | [[Aether Exhaust]] |
 | [[Leather]]          | 10   | 2                    | 1    | [[Comfortable]]                     | [[Bandolier]]    | [[Flexibility]]    |
-| [[Studded Leather]]  | 45   | 3                    | 1    | [[Comfortable]]                     | [[Riveted]]      | [[Custom Fit]]     |
+| [[Studded Leather]]  | 45   | 3                    | 1    | [[Comfortable]]                     | [[Riveted]]      | [[Studded Precision]]     |
 
 # Medium Armor
 

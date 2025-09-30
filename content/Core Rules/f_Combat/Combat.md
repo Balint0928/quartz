@@ -53,5 +53,7 @@ In combat, characters will take damage, and reduce their HP. Some effects may ca
 
 When a player character is reduced to 0 HP, it enters the [[Dying]] state. When a character in this state regains any number of HP, they exit the Dying state.
 
+[[Damage Mitigation]]
+
 ### Sudden Death & Doom
 Certain effects can apply [[Sudden Death]] or [[Doomed]] to a character.

@@ -1,1 +1,1 @@
-You can use your bonus action on each of your turns in combat, to take the Dash, Disengage or Hide action.
+You can use your bonus action on each of your turns in combat, to take the [[Dash Action]], [[Disengage Action]] or Hide action. You can only use this feature if you are not wearing Heavy Armor.

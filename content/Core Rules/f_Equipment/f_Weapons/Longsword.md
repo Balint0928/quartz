@@ -6,4 +6,4 @@ tags:
 ---
 | Damage       | [[Bulk]] | Properties | Heft | Special         | Mastery           |
 | ------------ | ---- | ---------- | ---- | --------------- | ----------------- |
-| 1d8 slashing | 1    | -          | 4    | [[Quick parry]] | [[Prince slayer]] |
+| 1d8 slashing | 1    | -          | 4    | [[Mordhau]] | [[Prince slayer]] |

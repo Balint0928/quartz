@@ -11,7 +11,7 @@ tags:
 | [[Club]]         | 1d4 bludgeoning | 1        | [[light]]                                          | -        | [[Dirty Trick]]         | [[Dirt Cheap]]     |
 | [[Dagger]]       | 1d4 piercing    | L        | [[Finesse]], [[light]], [[thrown]] (range 20/60)   | -        | [[Twist the Blade]]     | [[Bloodletter]]    |
 | [[Greatclub]]    | 1d8 bludgeoning | 2        | -                                                  | 4        | [[Pushback]]            | [[Sit down]]       |
-| [[Handaxe]]      | 1d6 slashing    | 1        | [[thrown]] (range 20/60)                           | 1        | [[Sweeping swing]]      | [[Follow up]]      |
+| [[Handaxe]]      | 1d6 slashing    | 1        | [[thrown]] (range 20/60), [[hack]]                 | 1        | [[Sweeping swing]]      | [[Follow up]]      |
 | [[Javelin]]      | 1d6 piercing    | L        | [[Thrown]] (range 30/120)                          | 1        | [[Pilum]]               | [[Beast feller]]   |
 | [[Light Hammer]] | 1d4 bludgeoning | L        | [[light]], [[thrown]] (range 20/60)                | 1        | [[Bounceback]]          | [[Battle Rhythm]]  |
 | [[Mace]]         | 1d6 bludgeoning | 1        | —                                                  | 2        | [[Hindering Blow]]      | [[Halting Blow]]   |
@@ -33,14 +33,14 @@ tags:
 
 | Name            | Damage          | [[Bulk]] | Properties                 | [[Heft]] | Special                      | Mastery              |
 | --------------- | --------------- | -------- | -------------------------- | -------- | ---------------------------- | -------------------- |
-| [[Battleaxe]]   | 1d8 slashing    | 1        | —                          | 4        | [[Sweeping swing]]           | [[Deep Bite]]        |
+| [[Battleaxe]]   | 1d8 slashing    | 1        | [[hack]]                   | 4        | [[Sweeping swing]]           | [[Deep Bite]]        |
 | [[Flail]]       | 1d8 bludgeoning | 1        | [[finesse]], [[versatile]] | 4        | [[Angled strike]]            | [[Cleaving strike]]  |
-| [[Glaive]]      | 1d10 slashing   | 2        | [[reach]]                  | 6        | [[Versatile blade]]          | [[Brace!]]           |
-| [[Greataxe]]    | 1d12 slashing   | 2        | —                          | 8        | [[Improved sweeping swing]]  | [[Improved Cleave]]  |
+| [[Glaive]]      | 1d10 slashing   | 2        | [[reach]]                  | 6        | [[Curved Blade]]             | [[Brace!]]           |
+| [[Greataxe]]    | 1d12 slashing   | 2        | [[hack]]                   | 8        | [[Improved sweeping swing]]  | [[Improved Cleave]]  |
 | [[Greatsword]]  | 2d6 slashing    | 2        | —                          | 8        | [[Deep Cut]]                 | [[Kingslayer]]       |
-| [[Halberd]]     | 1d10 slashing   | 2        | [[reach]]                  | 8        | [[Thrusting blade]]          | [[Brace!]]           |
+| [[Halberd]]     | 1d10 slashing   | 2        | [[reach]], hack            | 8        | [[Thrusting blade]]          | [[Brace!]]           |
 | [[Lance]]       | 1d10piercing    | 2        | [[Reach]], special         | 6        | [[Pushback]]                 | [[Rushing strike]]   |
-| [[Longsword]]   | 1d8 slashing    | 1        | —                          | 4        | [[Quick parry]]              | [[Prince slayer]]    |
+| [[Longsword]]   | 1d8 slashing    | 1        | —                          | 4        | [[Mordhau]]              | [[Prince slayer]]    |
 | [[Maul]]        | 2d6 bludgeoning | 2        | —                          | 8        | [[Pushback]]                 | [[Sit down]]         |
 | [[Morningstar]] | 1d8 piercing    | 1        | —                          | 3        | [[Spiked Smash]]             | [[Improved Impale]]  |
 | [[Pike]]        | 1d10 piercing   | 2        | [[reach]]                  | 8        | [[Chargestopper]]            | [[Brace!]]           |
@@ -64,7 +64,7 @@ tags:
 | [[Whip]]               | 1d4 slashing              | 1        | [[Finesse]], [[reach]], special                                  | -        | [[Hold in place]]  | [[Crack the whip]]      |
 | [[Net]]                | —                         | 1        | Special, [[thrown]] (range 5/15)                                 | -        | [[Pull down]]      | [[Spread throw]]        |
 | [[Crossbow, Hand]]     | 1d6 piercing              | L        | [[Projectile]] (range 30/120), [[light]], [[loading]]            | -        | [[Quickdraw]]      | [[Akimbo]]              |
-| [[Bastard Sword]]      | 1d10 slashing             | 2        | -                                                                | 6        | [[Quick parry]]    | [[Kingslayer]]          |
+| [[Bastard Sword]]      | 1d10 slashing             | 2        | -                                                                | 6        | [[Mordhau]]        | [[Kingslayer]]          |
 | [[Bladed Shield]]      | 1d6 slashing              | 1        | [[Armor Value]](1d6), [[Vigor]](3), [[thrown]] (range 10/20)     | 3        | [[Follow up]]      | [[Duelist’s Backup]]    |
 | [[Cestus]]             | 3 + [[Vigor]] Bludgeoning | L        | [[Interchangeable]]                                              | -        | [[Razzle Dazzle]]  | [[Pound Town]]          |
 | [[Chakram]]            | 1d6 Slashing              | 1        | [[thrown]](range 30/60), [[finesse]], [[versatile]]              | -        | [[Bouncing Blade]] | [[Sawing Blade]]        |
@@ -75,7 +75,7 @@ tags:
 | [[Wakizashi]]          | 1d6 Slashing              | L        | [[finesse]], [[light]]                                           | 2        | [[Mada Mada]]      | [[Sugei!]]              |
 | [[Scythe]]             | 2d4 Slashing              | 2        | -                                                                | 6        | [[Grim Impale]]    | [[Improved Cleave]]     |
 | [[Twin-Blade]]         | 1d10 Slashing             | 2        | [[twin]], [[versatile]]                                          | 4        | [[Dancing Steel]]  | [[Wholesale Slaughter]] |
-| [[Macahuitl]]          | 1d8 Slashing              | 1        | -                                                                | 4        | [[Rending Slash]]  | [[Tear the Flesh]]      |
+| [[Macahuitl]]          | 1d8 Slashing              | 1        | [[hack]]                                                         | 4        | [[Rending Slash]]  | [[Tear the Flesh]]      |
 | [[Khopesh]]            | 1d8 Slashing              | 1        | Special                                                          | 3        | [[Biting Blade]]   | [[Sweeping swing]]      |
 | [[Battle Banner]]      | 1d6 Bludgeoning           | 1        | [[thrown]](20/60), [[versatile]], [[reach]]                      | 2        | [[Overwatch]]      | [[Braced attack]]       |
 | [[Dadao]]              | 1d10 Slashing             | 2        | [[finesse]], [[versatile]],                                      | 5        | [[Curved Blade]]   | [[Biting Blade]]        |

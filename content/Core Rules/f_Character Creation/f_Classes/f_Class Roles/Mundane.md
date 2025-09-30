@@ -13,7 +13,7 @@ You gain the following features if your character possesses the mundane role at 
 - [[Tool Mastery]]
 
 **Level 3:**
-- [[Taunt]], Proficiency with an Exotic Weapon of your choice
+- Proficiency with an Exotic Weapon of your choice and Heavy armor
 
 **Level 4:**
 - [[Class Feat]] or [[Role feat]]

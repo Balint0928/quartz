@@ -16,7 +16,7 @@ tags:
 
 ### Cat Conclave:
 
-- **Cat's Eyes:** Gain Lowlight vision. If you already have Lowlight vision, gain Dark vision in a range of 30 feet.
+- **Cat's Eyes:** Gain Lowlight vision 60 feet. If you already have Lowlight vision, gain Dark vision in a range of 30 feet.
 
 - **Cat's Cunning:** Once per creature when you succeed on a [[Martial Knowledge]] check, learn an extra piece of information.
 

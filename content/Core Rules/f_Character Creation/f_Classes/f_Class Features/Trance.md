@@ -11,7 +11,7 @@ Trance is when a barbarian's passion governs them and lands them prowess in batt
 - Desperation: You can make an extra attack as a bonus action each turn.
 - Recklessness: Your weapon attack rolls are made with advantage and attack rolls against you are made with advantage.
 
-You can use a bonus action on your turn to switch between emotions.
+You can use a free action at the start of your turn to switch between emotions.
 
 Your Trance lasts for 1 minute. It ends early if you are knocked unconscious
 or if your turn ends and you haven't attacked a hostile creature since your last turn or taken damage since then. You can also end your rage on your turn as a bonus action.
