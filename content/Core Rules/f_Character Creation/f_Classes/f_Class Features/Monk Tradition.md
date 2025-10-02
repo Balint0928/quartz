@@ -23,8 +23,8 @@ tags:
 
 ### Way of the Warden
 
-- Gain [[Weapon Mastery]] with a monk weapon of your choice.
+- Gain [[Weapon Mastery]] with a monk weapon of your choice. Monk Weapons: [[Katana]], [[Wakizashi]], [[Chakram]], [[Nodachi]], [[Kusiragama]], [[Sai]], [[Tessen]]
 
-- All effects controlled by the monk that would affect Unarmed attacks, also applies to the monk weapon chosen by the [[Weapon Mastery]] You may only choose a monk weapon for these effects. Monk Weapons: [[Katana]], [[Wakizashi]], [[Chakram]], [[Nodachi]], [[Kusiragama]], [[Sai]], [[Tessen]]
+- All effects controlled by the monk that would affect Unarmed attacks, also applies to the monk weapon chosen by the [[Weapon Mastery]]. You may only choose a monk weapon for these effects. 
 
 - Gain an [[Advanced Fighting Style]]. *WIP*
