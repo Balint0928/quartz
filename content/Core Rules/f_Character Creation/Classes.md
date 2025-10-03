@@ -19,6 +19,7 @@ tags:
 | [[Warlock]]   | [[Magical]] | -            |
 | [[Paladin]]   | [[Magical]] | [[Martial]]  |
 
+
 # Base Classes
 - [[Fighter]]
 - [[Barbarian]]

@@ -8,8 +8,8 @@ tags:
 *Select one of the following Druid subclasses:*
 
 ### Spirit Warrior
-- The [[Dodge Value]] bonus from [[Leanbh an Nádúir]] is doubled.
-- You gain 1 Permanent AP. You may use your spellcasting attribute instead of the normal statistics for your weapons. Additionally, you deal additional damage with your weapon that equals half of your current AP.
+- The [[Dodge Value]] bonus from [[Leanbh an Nádúir]] is now ignores if the spell slot is spent or not.
+- [[Mana of War]]
 
 ### Shifter
 - **Beast Totems:** You have connections to four beast spirits through your totems, for this feature, chosen from among Beast stat blocks that have a maximum CR of 1/4 and that lack a flying speed. The rat, Horse, Spider and Wolf are recommended. You can, during your adventure attune to other, stronger and more spirits. From 5th level, you can have 6 attuned spirits, and they can be of 1/2 CR max. You will have to seek out these new spirits yourself.

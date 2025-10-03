@@ -31,7 +31,7 @@ You gain:
 - Proficiency with Perception
 - You can use your spellcasting ability modifier instead of wisdom for your perception checks.
 - You can understand any written language.
-- You gain Low light vision in a range of 30 feet. If you already have Low Light Vision, it becomes Dark Vision.
+- Gain Dark Vision of 60 feet.
 
 ### Invocation of Stars
 You gain:

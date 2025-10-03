@@ -14,4 +14,4 @@ This character is a child of nature, dedicated to the protection of nature and t
 
 **Magic of the spirits**
 Each spell the druid knows is represented by and channeled through a physical manifestation. Tattoos on the body, trinkets, charms etc...
-The druid is protected by the magic of these trinkets, and they gain a bonus to their [[Dodge Value]] that equals the level of their highest spell slot.
+The druid is protected by the magic of these trinkets, and they gain a bonus to their [[Dodge Value]] that equals the level of their highest unspent spell slot.

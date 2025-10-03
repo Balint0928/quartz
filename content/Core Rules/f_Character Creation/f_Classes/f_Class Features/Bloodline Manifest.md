@@ -19,14 +19,14 @@ Unlike other classes at level 3, you don't choose a "sub-class". Instead, your c
 ### Draconic
 - Bloodline spell: Dragon's Breath
 - Draconic Resilience: Your HP maximum increases by 3, and it increases by 1 whenever you gain another level.
-- Dragon Scales: You add your Charisma modifier to your DV. And you can add your current AP instead of your constitution to any AV rolls. When you do so, increase your AP by 1.
+- Dragon Scales: When you aren't wearing armor, your AC equals 12 + your Dexterity modifier. This armor has an [[Armor Value]] that equals your permanent AP. You can only recover this [[Armor Value]] after finishing a [[Long Rest]].
 
 ### Shadow
 - Bloodline spell: Darkness
 - Eyes of the Dark: You gain Darkvision in a range of 60 feet. You can see even in magical darkness.
 - Temptation from the shadows: When you are reduced to 0 HP, you can make a Charisma save (DC 5 + damage taken). On a success, you instead drop to 1 HP. You can't use this feature if you are reduced to 0 hit points by radiant damage or by a critical hit. If you fail the save, increase your AP by 5. If you succeed, by 1.
 
-### Wild
+### Wild - *WORK IN PROGRESS*
 - Bloodline spell: *Choose one* 
 - Wild magic: Once per turn, you can roll 1d20 and add your current AP, immediately after you cast a Sorcerer spell with a spell slot. If you roll a 20 or the total is higher than 25, roll on the Wild Magic Surge table to create a magical effect. Once the effect is resolved, increase your AP by 1. This can only trigger this way once per combat or once every 10 minutes.
 - Tides of Chaos: You can give yourself advantage on a d20 roll of any kind. Once you do so, increase your AP by 2, and the next time you cast a spell with a spell slot, immediately trigger a wild magic surge. You can use this feature once per [[Short Rest]]. 

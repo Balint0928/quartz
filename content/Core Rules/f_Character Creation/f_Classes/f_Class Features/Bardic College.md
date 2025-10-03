@@ -8,7 +8,7 @@ tags:
 ### Song weaver
 - Learn an additional song from the [[Maestro]] feature.
 - Once per short rest, you can use a song as an action. (A character can only benefit from one song at the same time)
-- You gain 1 permanent AP, You may use your spellcasting attribute instead of the normal statistics for your weapons. However, for the purposes of qualifying for Heft your casting attribute counts as 1 lower. You deal additional damage with your weapon equal to half of your current AP.
+- [[Mana of War]]
 
 ### Demagogue
 - You can use your [[Inspiration]] on enemy rolls as well as ally rolls. For enemies you subtract the bonus from their roll instead of adding it.
