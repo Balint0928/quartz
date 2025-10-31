@@ -18,4 +18,4 @@ tags:
 ### Lorekeeper
 - Gain proficiency in two of the following skills: History, Arcana, Nature, Religion or [[Martial Knowledge]].
 - You gain proficiency in Arcana. If you already have proficiency in Arcana, you gain [[Skill Mastery]] instead.
-- You learn two spells of your choice. These spells can come from the Cleric, Druid, or Wizard spell list or any combination thereof. A spell you choose must be a cantrip or a spell for which you have spell slots. You always have the chosen spells prepared, and whenever you gain a [[Magical]] level, you can replace one of the spells with another spell that meets these requirements.
+- You learn two spells of your choice. These spells can come from the Arcane, Divine or Primal Wellsprings or any combination thereof. A spell you choose must be a cantrip or a spell for which you have spell slots. You always have the chosen spells prepared, and whenever you gain a [[Magical]] level, you can replace one of the spells with another spell that meets these requirements.

@@ -5,3 +5,4 @@ tags:
   - spellcasting
 ---
 ## [[Cantrips]]
+## [[1st Level Spells]]

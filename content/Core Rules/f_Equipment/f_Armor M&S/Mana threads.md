@@ -5,5 +5,5 @@ tags:
   - armor
   - armor_special
 ---
-When you expand a spell slot to cast a spell, gain a bonus to your DV that equals the spell level.
+Whenever you would expand a spell slot to cast a spell, you gain a bonus to your AC equal to the spell level for 1 round.
 

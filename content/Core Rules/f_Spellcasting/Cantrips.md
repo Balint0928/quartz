@@ -76,6 +76,7 @@ tags:
 | [[Create Bonfire]]       | Action          | Conjuration   | Yes           | 60 feet  |
 | [[Druidcraft]]           | Action          | Transmutation | -             | 30 feet  |
 | [[Elementalism]]         | Action          | Transmutation | -             | 30 feet  |
+| [[Elemental Resistance]] | Action          | Abjuration    | Yes           | Touch    |
 | [[Frostbite]]            | Action          | Evocation     | -             | 60 feet  |
 | [[Gust]]                 | Action          | Transmutation | -             | 30 feet  |
 | [[Infestation]]          | Action          | Conjuration   | -             | 30 feet  |
@@ -86,7 +87,6 @@ tags:
 | [[Nature's Remedy]]      | Action          | Transmutation | -             | Self     |
 | [[Poison Spray]]         | Action          | Evocation     | -             | 30 feet  |
 | [[Primal Savagery]]      | Action          | Transmutation | -             | Self     |
-| [[Elemental Resistance]] | Action          | Abjuration    | Yes           | Touch    |
 | [[Shape Water]]          | Action          | Transmutation | -             | 30 feet  |
 | [[Shillelagh]]           | Bonus Action    | Transmutation | -             | Self     |
 | [[Thorn Whip]]           | Action          | Transmutation | -             | 30 feet  |
