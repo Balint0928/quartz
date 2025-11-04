@@ -14,7 +14,7 @@ These orcs took to the caves and the belly of the world as they heard that great
 
 **Lineage feature:**
 - [[Mark of the Grey]]
-Low light vision 60 feet. Blindsight in 5 feet (cannot use if [[deafened]]).
+Low light vision 60 feet. Blindsight in 5 feet (cannot use if [[Deafened]]).
 
 ## Greenhand
 
@@ -30,4 +30,4 @@ These Orcs value martial prowess and power above all else. Wrongfully called Hob
 
 **Lineage feature:**
 - [[Mark of the Red]]
-Creatures missing more than half their max HP cannot gain benefit from being hidden or [[invisible]] from you. You also have advantage on any Perception or Survival checks to find such a creature.
+Creatures missing more than half their max HP cannot gain benefit from being hidden or [[Invisible]] from you. You also have advantage on any Perception or Survival checks to find such a creature.

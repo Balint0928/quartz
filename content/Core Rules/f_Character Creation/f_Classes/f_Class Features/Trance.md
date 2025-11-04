@@ -13,6 +13,6 @@ Trance is when a barbarian's passion governs them and lands them prowess in batt
 
 You can use a free action at the start of your turn to switch between emotions.
 
-Your Trance lasts for 1 minute. It ends early if you are knocked [[unconscious]]
+Your Trance lasts for 1 minute. It ends early if you are knocked [[Unconscious]]
 or if your turn ends and you haven't attacked a hostile creature since your last turn or taken damage since then. You can also end your rage on your turn as a bonus action.
 

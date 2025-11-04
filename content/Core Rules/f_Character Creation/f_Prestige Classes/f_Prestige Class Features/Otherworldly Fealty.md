@@ -37,7 +37,7 @@ Tenets:
 - Cake
 
 *Fealty Feature:*
-**Mushroom Circle** - When you use your Waltz of the Faerie feature, you also become [[invisible]] until the end of your next turn. Attacking or casting a spell breaks this invisibility.
+**Mushroom Circle** - When you use your Waltz of the Faerie feature, you also become [[Invisible]] until the end of your next turn. Attacking or casting a spell breaks this invisibility.
 
 ### The Celestial - Ad Caeleste
 Tenets:

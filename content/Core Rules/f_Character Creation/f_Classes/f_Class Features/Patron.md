@@ -36,6 +36,6 @@ You have struck a bargain with an otherworldly being. Your Patron lends you the 
 
 - **Dread Visage:** As a bonus action, you transform for 1 minute. While transformed, your permanent AP increases by 1. When your transformation ends, you retain 1 permanent AP, as the features don't fade completely. For each additional use of this feature, the permanent AP you gain after usage increases by 1. This permanent AP is cleared at the end of your next [[Long Rest]]. While you have permanent AP from this feature, you can add your Permanent AP as bonus to any Intimidation check you make. You can use this feature a number of times that equals your proficiency bonus per long rest. You gain the following benefits while transformed:
 	- You gain temporary hit points equal to 1d10 + your [[Magical]] level.
-	- Once during each of your turns, when you hit a creature with an attack roll, you can force it to make a Wisdom saving throw against your spell save DC, and if the saving throw fails, the target is [[frightened]] of you until the end of your next turn.
-	- You are immune to the [[frightened]] condition.
+	- Once during each of your turns, when you hit a creature with an attack roll, you can force it to make a Wisdom saving throw against your spell save DC, and if the saving throw fails, the target is [[Frightened]] of you until the end of your next turn.
+	- You are immune to the [[Frightened]] condition.
 - Your spellcasting ability is Charisma or Intelligence (chosen when you take this Patron)
