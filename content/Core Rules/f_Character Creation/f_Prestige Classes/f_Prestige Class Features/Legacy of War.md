@@ -13,4 +13,4 @@ At the start of each combat encounter, you may choose:
 - DV
 - [[Trance]] Rage damage
 - [[Battle Hardened]]
-You gain the maximum of your [[Legacy of War]] as a bonus to that statistic. This bonus lasts as long as you are conscious and not in the dying condition, after that the effect is lost.
+You gain the maximum of your [[Legacy of War]] as a bonus to that statistic. This bonus lasts as long as you are conscious and not in the [[dying]] condition, after that the effect is lost.

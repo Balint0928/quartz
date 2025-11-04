@@ -13,7 +13,7 @@ tags:
 
 ### Shifter
 - **Beast Totems:** You have connections to four beast spirits through your totems, for this feature, chosen from among Beast stat blocks that have a maximum CR of 1/4 and that lack a flying speed. The rat, Horse, Spider and Wolf are recommended. You can, during your adventure attune to other, stronger and more spirits. From 5th level, you can have 6 attuned spirits, and they can be of 1/2 CR max. You will have to seek out these new spirits yourself.
-- **Wildshape:** As a bonus action you can change shape into one of your Totem Animals. You can stay in this form for a number of hours that equals half your druid level. You can leave the form earlier if you are reduced to 0 hp, have the incapacitated condition or as a bonus action.
+- **Wildshape:** As a bonus action you can change shape into one of your Totem Animals. You can stay in this form for a number of hours that equals half your druid level. You can leave the form earlier if you are reduced to 0 hp, have the [[incapacitated]] condition or as a bonus action.
   You can use this feature twice per long rest.
   You can't cast spells while in this form.
   You retain your Hit Points, Mental Ability scores, proficiencies, class features.

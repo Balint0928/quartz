@@ -15,6 +15,6 @@ You gain or lose Spirit in the following ways:
 
 - When an enemy deals damage to you with an attack in combat, lose 1 spirit, 2 on a crit.
 
-- If you fall unconscious, lose all of your Spirit.
+- If you fall [[unconscious]], lose all of your Spirit.
 
 - Out of combat, you lose all of your Spirit after 1 hour.

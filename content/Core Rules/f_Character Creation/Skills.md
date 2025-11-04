@@ -9,7 +9,7 @@ When the DM asks for a check, it is either Basic or Advanced. Anyone can attempt
 Each skill has an associated mastery, that can be unlocked. Once unlocked, you gain its benefit. You can only unlock a skill mastery with a skill if you have proficiency with the given skill.
 
 ### Acrobatics
-- Mastery: At the start of your turn, you can stand up from prone immediately, without any cost.
+- Mastery: At the start of your turn, you can stand up from [[prone]] immediately, without any cost.
 
 ### Animal Handling
 - Mastery: You gain a minor animal companion. If you lose it, you can spend 1 hour and search for a new one.

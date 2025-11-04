@@ -6,4 +6,4 @@ tags:
   - ancestry_feature
   - martial
 ---
-You are immune to being frightened.
+You are immune to being [[frightened]].

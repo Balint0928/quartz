@@ -16,7 +16,7 @@ You can use this feature a number of times equal to your spellcasting ability mo
 **Knowledge From Beyond:** When you would roll an [[Arcane Knowledge]] or [[Martial Knowledge]] check, you can choose to gain 1 AP and succeed without rolling. This feature instead could also reveal the Traits for the fight for the same AP cost. Each time you use this feature after the first before the end of your next long rest, there is a cumulative 20% chance that you gain an extra AP, and suffer a long term madness until the end of your next long rest.
 
 ### The Fey
-**Fey Presence:** As an action, you can gain 2 AP and cause each creature in a 10-foot cube originating from you to make a Wisdom saving throw against your warlock spell save DC. The creatures that fail their saving throws are all charmed or frightened by you (your choice) until the end of your next turn. Creatures that succeed against this feature are immune to it for 24 hours.
+**Fey Presence:** As an action, you can gain 2 AP and cause each creature in a 10-foot cube originating from you to make a Wisdom saving throw against your warlock spell save DC. The creatures that fail their saving throws are all [[charmed]] or [[frightened]] by you (your choice) until the end of your next turn. Creatures that succeed against this feature are immune to it for 24 hours.
 
 ### The Celestial
 **Radiant Soul:** You have Resistance 10 to Radiant damage. Once per turn, when a spell you cast deals Radiant or Fire damage, you can add your Charisma modifier to that spell's damage against one of the spell's targets.

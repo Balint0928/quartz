@@ -11,7 +11,7 @@ tags:
 
 - Mantra of the Sun’s Kiss: As an action, you can touch a creature within 5 feet of you, and Spend 1 Spirit to grant them Temporary hit points that equals twice your character level. Only one creature can benefit from this feature at the same time. The temporary hit points last for 1 minute.
 
-- When you use your [[Focused Spirit]]'s Piercing Palm feature to bypass the AV of a creature, you can spend an extra Spirit to force the creature to succeed on a Con save against your martial Arts DC, or become blinded until the end of its next turn.
+- When you use your [[Focused Spirit]]'s Piercing Palm feature to bypass the AV of a creature, you can spend an extra Spirit to force the creature to succeed on a Con save against your martial Arts DC, or become [[blinded]] until the end of its next turn.
 
 ### Way of the Moon
 

@@ -89,12 +89,12 @@ When a table says L, substitute the level of the spell.
 
 | d8  | Effect Title | Spell Effect                                                                                                     |
 | --- | ------------ | ---------------------------------------------------------------------------------------------------------------- |
-| 1   | Overwhelming | 2 + L amount of targets are knocked prone.                                                                       |
+| 1   | Overwhelming | 2 + L amount of targets are knocked [[prone]].                                                                       |
 | 2   | Thunderous   | Affected targets are pushed away from you 10 + 5xL feet.                                                         |
 | 3   | Defiling     | All targets take 1 + L Necrotic damage, and you gain temporary HP equal to the total damage done to all targets. |
-| 4   | Immobilizing | 2 + L amount of targets are grappled until the end of their next turn.                                           |
-| 5   | Blinding     | Each target is Blinded until the end of their next turn.                                                         |
-| 6   | Terrifying   | 2+ L amount of targets are Frightened of you until the end of their next turn                                    |
+| 4   | Immobilizing | 2 + L amount of targets are [[grappled]] until the end of their next turn.                                           |
+| 5   | Blinding     | Each target is [[Blinded]] until the end of their next turn.                                                         |
+| 6   | Terrifying   | 2+ L amount of targets are [[Frightened]] of you until the end of their next turn                                    |
 | 7   | Enfeebling   | Targets gain weakness of 1 + L to Fire, Cold, Lightning, Acid or Poison damage until the end of your next turn.  |
 | 8   | Telekinetic  | All targets are moved 5 + 5L feet in random directions. These can trigger movement based reactions.              |
 ### Does damage
@@ -106,12 +106,12 @@ If the spell deals damage, your modification also can also change the damage typ
 | 1    | Acid        | Corroding     | Target's AV is reduced by L/2.                                                                                                                               |
 | 2    | Cold        | Chilling      | Affected targets have their speed reduced by 5 + 5xL until the end of their next turn                                                                        |
 | 3    | Fire        | Incinerating  | Targets take an extra amount of damage at the end of their next turn that equals your spellcasting mod + L, unless they use an action to put out the flames. |
-| 4    | Force       | Detonating    | Affected targets must succeed on a strength save or be knocked prone. (+1 x L to your save DC)                                                               |
+| 4    | Force       | Detonating    | Affected targets must succeed on a strength save or be knocked [[prone]]. (+1 x L to your save DC)                                                               |
 | 5    | Lightning   | Shocking      | Affected targets cannot take reactions until the end of their next turn.                                                                                     |
-| 6    | Necrotic    | Draining      | The takes 1 + L/2 amount of Exhaustion if it fails a constitution save.                                                                                      |
+| 6    | Necrotic    | Draining      | The takes 1 + L/2 amount of [[Exhaustion]] if it fails a constitution save.                                                                                      |
 | 7    | Poison      | Nauseating    | Each target must succeed on a CON save or must use their action to throw up on their next turn.                                                              |
 | 8    | Psychic     | Hallucinating | Effected targets see multiple of you, and have disadvantage on their attack rolls against you until the end of their next turn.                              |
-| 9    | Radiant     | Dazzling      | Targets shed bright light in a 10 foot radius, and cannot become invisible until the end of your next turn.                                                  |
+| 9    | Radiant     | Dazzling      | Targets shed bright light in a 10 foot radius, and cannot become [[invisible]] until the end of your next turn.                                                  |
 | 10   | Thunder     | Concussive    | Each target drops concentration.                                                                                                                             |
 
 If your spell deals physical damage roll on this table:

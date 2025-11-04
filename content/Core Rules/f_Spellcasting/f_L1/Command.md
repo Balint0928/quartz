@@ -20,7 +20,7 @@ You speak a one-word command to a creature you can see within range. The target 
 
 - **Flee:** The target spends its turn moving away from you by the fastest available means.
 
-- **Grovel:** The target has the Prone condition and then ends its turn.
+- **Grovel:** The target has the [[Prone]] condition and then ends its turn.
 
 - **Halt:** On its turn, the target doesn't move and takes no action or Bonus Action.
 

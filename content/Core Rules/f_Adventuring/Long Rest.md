@@ -6,7 +6,7 @@ tags:
 ---
 A long rest lasts for at least 8 hours, where you sleep, eat and do light activity.
 
-After you finish a long rest, you regain all missing HP, reduce your Exhaustion and [[Aether Fatigue]] by 3, and recharge any ability or resource that recharges on a Long rest.
+After you finish a long rest, you regain all missing HP, reduce your [[Exhaustion]] and [[Aether Fatigue]] by 3, and recharge any ability or resource that recharges on a Long rest.
 
 **Interrupting the Rest.** A Long Rest is stopped by the following interruptions:
 
