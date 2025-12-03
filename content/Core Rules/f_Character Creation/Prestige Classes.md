@@ -117,12 +117,13 @@ The following classes are not regionally locked, they just represent where these
 ## [[Sleepless Sands]]
 - [[Dervish]]
 ## [[Steppes of Azul]]
-
-## [[Sea of Thousand Tears]]
+- [[Restless Explorer]]
+## [[Sea of Thousand Tears]] 
 
 ## [[Ankha-Am]]
 
 ## [[The Ixalanti]]
+- [[Lancer]]
 
 ## [[The Misted Lands]]
 
