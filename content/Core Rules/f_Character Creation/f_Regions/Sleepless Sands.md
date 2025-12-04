@@ -14,7 +14,7 @@ The Sleepless Sands is under an ancient and powerful curse, that makes the night
 However, the constant exposure to such horrors, made the people of the sands resilient, as they stand up and fight to rid their homeland from these nightly terrors.
 
 # Major Settlement(s)
-The largest, safest, and richest settlement maybe in all of Iqor is Sadirah, the city where the sun never sets. The imposing towers, promenades, market districts and noble estates, make this city a sight to behold. Yet none of these command attention as much as the miniature blazing sun floating above the royal palace all the time. The sun, or the Eye of the Sultan, provides light and protection from the creatures of the night. Living within the city walls, and close to the eye is a privilege the sultan gives and takes at his leisure. 
+The largest, safest, and richest settlement in all of Iqor is Sadirah, the city where the sun never sets. The imposing towers, promenades, market districts and noble estates make this city a sight to behold. Yet none of these command attention as much as the miniature blazing sun floating above the royal palace all the time. The sun, or the Eye of the Sultan, provides light and protection from the creatures of the night. Living within the city walls, and close to the eye is a privilege the sultan gives and takes at his leisure. 
 
 # Role Passives
 

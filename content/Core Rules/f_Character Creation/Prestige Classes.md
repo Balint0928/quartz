@@ -119,12 +119,11 @@ The following classes are not regionally locked, they just represent where these
 ## [[Steppes of Azul]]
 - [[Restless Explorer]]
 ## [[Sea of Thousand Tears]] 
-
+- [[Travelling Merchant]]
 ## [[Ankha-Am]]
-
+- [[Pestilent]]
 ## [[The Ixalanti]]
 - [[Lancer]]
-
 ## [[The Misted Lands]]
-
+- [[Samurai]]
 
