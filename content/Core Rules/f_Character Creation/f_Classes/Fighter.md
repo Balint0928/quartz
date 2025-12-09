@@ -4,6 +4,7 @@ draft: false
 tags:
   - class
 ---
+![[edc7d121fe5de3b47a940af4fa190083.jpg|250]]
 ## Basic info:
 
 - Role: [[Martial]] & [[Mundane]]
