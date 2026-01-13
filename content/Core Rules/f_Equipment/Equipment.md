@@ -15,3 +15,10 @@ tags:
 
 # Spell foci
 [[Focuses and Masteries]]
+
+# Magical Items
+[[Enchanted Item]]
+[[Artifact]]
+[[Spell Scroll]]
+[[Potion]]
+[[Relic]]

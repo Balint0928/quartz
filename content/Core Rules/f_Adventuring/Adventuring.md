@@ -12,7 +12,7 @@ There are three main types of rests:
 - [[Short Rest]]
 
 # Inventory
-Inventory space is simplified into using [[Bulk]].
+Inventory space is simplified into using [[Bulk]]. Equipping items are done using [[Equipment Slots]]
 
 # Upgrading Weapons and Armor
 The most common way an Adventurer can improve the power of their Armor and Weapons, is by a practice called [[Gem Socketing]]. 

@@ -3,7 +3,7 @@ title: Gem Socketing
 draft: false
 tags:
 ---
-Mana infused gems can be socketed into mundane weapons, armor or shield if the item has a socket.
+Mana infused gems can be socketed into items with the Socketed affix
 
 This system replaces the +1/+2/+3 item variants
 
