@@ -4,11 +4,11 @@ draft: false
 tags:
 ---
 # Weapons 
-[[Weapons and Masteries]]
+[[Weapons]]
 
 # Armor and Shields
 [[Armor and Masteries]]
-[[Alternate Armor]]
+[[Armor]]
 
 # Tools 
 [[Tools and Masteries]]

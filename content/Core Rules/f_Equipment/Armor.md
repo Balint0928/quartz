@@ -1,5 +1,5 @@
 ---
-title: Alternate Armor
+title: Armor
 draft: false
 tags:
   - equipment

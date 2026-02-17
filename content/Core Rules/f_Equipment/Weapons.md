@@ -1,5 +1,5 @@
 ---
-title: Weapons and Masteries
+title: Weapons
 draft: false
 tags:
   - equipment
