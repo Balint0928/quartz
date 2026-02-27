@@ -7,7 +7,6 @@ tags:
 [[Weapons]]
 
 # Armor and Shields
-[[Armor and Masteries]]
 [[Armor]]
 
 # Tools 

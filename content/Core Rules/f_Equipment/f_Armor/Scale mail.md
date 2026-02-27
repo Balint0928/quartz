@@ -4,7 +4,6 @@ draft: false
 tags:
   - armor
 ---
-
-| Cost | [[Armor Value]] (d8) | Bulk | [[Vigor]] | [[Clumsy]] | Properties                     | Special           | Mastery               |
-| ---- | -------------------- | ---- | --------- | ---------- | ------------------------------ | ----------------- | --------------------- |
-| 50   | 5                    | 2    | 2         | 1          | -                              | [[Scaled]]        | [[Reflective scales]] |
+| Cost | DV           | [[Armor Value]] | Bulk | [[Vigor]] | Properties                                 | Special          | Mastery               |
+| ---- | ------------ | --------------- | ---- | --------- | ------------------------------------------ | ---------------- | --------------------- |
+| 50   | 14 + 1/2 DEX | 4               | 2    | 2         | [[Clumsy]]                                 | [[Scaled]]       | [[Reflective scales]] |

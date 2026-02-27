@@ -3,9 +3,9 @@ title: Alchemist Supplies
 draft: false
 tags:
 ---
-| **Cost** | **Charges** | Special                  | **Mastery**              |
-| -------- | ----------- | ------------------------ | ------------------------ |
-|          | —           | [[Efficiency]]           | [[Tinctures]]            |
+| **Cost**  | **Charges** | Special        | **Mastery**   |
+| --------- | ----------- | -------------- | ------------- |
+| Expensive | —           | [[Efficiency]] | [[Tinctures]] |
 This kit contains vials, alembics, and other alchemical supplies.
 
 You can use this kit to create alchemical items you know the recipes for. In addition, you may also use this kit to experiment with new materials that you discover to unlock new recipes.

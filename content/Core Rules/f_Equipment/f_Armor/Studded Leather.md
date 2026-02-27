@@ -4,6 +4,6 @@ draft: false
 tags:
   - armor
 ---
-| Cost | [[Armor Value]] (d6) | Bulk | Properties                          | Special          | Mastery            |
-| ---- | -------------------- | ---- | ----------------------------------- | ---------------- | ------------------ |
-| 45   | 3                    | 1    | [[Comfortable]]                     | [[Riveted]]      | [[Studded Precision]]     |
+| Cost | DV       | [[Armor Value]] | Bulk | Properties      | Special     | Mastery               |
+| ---- | -------- | --------------- | ---- | --------------- | ----------- | --------------------- |
+| 45   | 13 + DEX | 2               | 1    | [[Comfortable]] | [[Riveted]] | [[Studded Precision]] |

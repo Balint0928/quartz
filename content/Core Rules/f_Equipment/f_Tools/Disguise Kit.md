@@ -3,7 +3,7 @@ title: Disguise Kit
 draft: false
 tags:
 ---
-| **Cost** | **Charges** | Special                  | **Mastery**              |
-| -------- | ----------- | ------------------------ | ------------------------ |
-|          | 5           | [[Fast change]]          | [[Camouflage]]           |
+| **Cost**       | **Charges** | Special         | **Mastery**    |
+| -------------- | ----------- | --------------- | -------------- |
+| Very Expensive | 5           | [[Fast change]] | [[Camouflage]] |
 This pouch of cosmetics, hair dye, and small props lets you create disguises that change your physical appearance. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to create a visual disguise.

@@ -4,7 +4,6 @@ draft: false
 tags:
   - armor
 ---
-
-| Cost | [[Armor Value]] (d8) | Bulk | [[Vigor]] | [[Clumsy]] | Properties                     | Special           | Mastery               |
-| ---- | -------------------- | ---- | --------- | ---------- | ------------------------------ | ----------------- | --------------------- |
-| 10   | 2                    | 1    | 2         | -          | [[Comfortable]]                | [[Layered]]       | [[Thick Hide]]        |
+| Cost | DV           | [[Armor Value]] | Bulk | [[Vigor]] | Properties      | Special     | Mastery        |
+| ---- | ------------ | --------------- | ---- | --------- | --------------- | ----------- | -------------- |
+| 10   | 13 + 1/2 DEX | 3               | 1    | 2         | [[Comfortable]] | [[Layered]] | [[Thick Hide]] |

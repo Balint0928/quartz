@@ -4,7 +4,6 @@ draft: false
 tags:
   - armor
 ---
-
-| Cost | [[Armor Value]] (d8) | Bulk | [[Vigor]] | [[Clumsy]] | Properties                     | Special           | Mastery               |
-| ---- | -------------------- | ---- | --------- | ---------- | ------------------------------ | ----------------- | --------------------- |
-| 750  | 6                    | 3    | 3         | 2          | -                              | [[Form fitting]]  | [[Superior defense]]  |
+| Cost | DV           | [[Armor Value]] | Bulk | [[Vigor]] | Properties                                 | Special           | Mastery               |
+| ---- | ------------ | --------------- | ---- | --------- | ------------------------------------------ | ----------------- | --------------------- |
+| 750  | 15 + 1/2 DEX | 5               | 3    | 3         | [[Clumsy]]                                 | [[Form fitting]]  | [[Superior defense]]  |

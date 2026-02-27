@@ -4,7 +4,6 @@ draft: false
 tags:
   - armor
 ---
-
-| Cost | [[Armor Value]] (d8) | Bulk | [[Vigor]] | [[Clumsy]] | Properties                     | Special           | Mastery               |
-| ---- | -------------------- | ---- | --------- | ---------- | ------------------------------ | ----------------- | --------------------- |
-| 50   | 3                    | 2    | 2         | 1          | [[Comfortable]], [[Concealed]] | [[Form fitting]]  | [[Quieted metal]]     |
+| Cost | DV           | [[Armor Value]] | Bulk | [[Vigor]] | Properties                                 | Special          | Mastery           |
+| ---- | ------------ | --------------- | ---- | --------- | ------------------------------------------ | ---------------- | ----------------- |
+| 50   | 14 + 1/2 DEX | 2               | 2    | 2         | [[Comfortable]], [[Concealed]], [[Clumsy]] | [[Form fitting]] | [[Quieted metal]] |

@@ -3,9 +3,9 @@ title: Jeweler's Kit
 draft: false
 tags:
 ---
-| **Cost** | **Charges** | Special                  | **Mastery**              |
-| -------- | ----------- | ------------------------ | ------------------------ |
-|          |             | [[Practiced hands]]      | [[Careful hands]]        |
+| **Cost**       | **Charges** | Special             | **Mastery**       |
+| -------------- | ----------- | ------------------- | ----------------- |
+| Very Expensive |             | [[Practiced hands]] | [[Careful hands]] |
 Gems found while adventuring will rarely fit a socketed weapon. For this purpose, a character with proficiency in Jeweler’s Tools, can attempt to cut and refine the gem. The process takes 2 hours per tier of the gem.
 
 | Rarity   | DC  |

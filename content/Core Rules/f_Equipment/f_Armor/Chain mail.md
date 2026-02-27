@@ -4,6 +4,6 @@ draft: false
 tags:
   - armor
 ---
-| Cost | [[Armor Value]] (d10) | Bulk | [[Vigor]] | [[Clumsy]] | Properties                                  | Special            | Mastery           |
-| ---- | --------------------- | ---- | --------- | ---------- | ------------------------------------------- | ------------------ | ----------------- |
-| 75   | 7                     | 2    | 4         | 2          | -                                           | [[Hidden sleeves]] | [[Quieted metal]] |
+| Cost | DV  | [[Armor Value]] | Bulk | [[Vigor]] | [[Clumsy]] | Properties | Special            | Mastery           |
+| ---- | --- | --------------- | ---- | --------- | ---------- | ---------- | ------------------ | ----------------- |
+| 75   | 16  | 6               | 2    | 4         | 2          | -          | [[Hidden sleeves]] | [[Quieted metal]] |

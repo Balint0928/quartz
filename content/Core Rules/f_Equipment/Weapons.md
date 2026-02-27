@@ -6,81 +6,81 @@ tags:
 ---
 # Simple Melee Weapons
 
-| Name             | Damage          | [[Bulk]] | Properties                                         | [[Heft]] | Special                 | Mastery            |
-| ---------------- | --------------- | -------- | -------------------------------------------------- | -------- | ----------------------- | ------------------ |
-| [[Club]]         | 1d4 bludgeoning | 1        | [[light]]                                          | -        | [[Dirty Trick]]         | [[Dirt Cheap]]     |
-| [[Dagger]]       | 1d4 piercing    | L        | [[Finesse]], [[light]], [[thrown]] (range 20/60)   | -        | [[Twist the Blade]]     | [[Bloodletter]]    |
-| [[Greatclub]]    | 1d8 bludgeoning | 2        | -                                                  | 4        | [[Pushback]]            | [[Sit down]]       |
-| [[Handaxe]]      | 1d6 slashing    | 1        | [[thrown]] (range 20/60), [[hack]]                 | 1        | [[Sweeping swing]]      | [[Follow up]]      |
-| [[Javelin]]      | 1d6 piercing    | L        | [[Thrown]] (range 30/120)                          | 1        | [[Pilum]]               | [[Beast feller]]   |
-| [[Light Hammer]] | 1d4 bludgeoning | L        | [[light]], [[thrown]] (range 20/60)                | 1        | [[Bounceback]]          | [[Battle Rhythm]]  |
-| [[Mace]]         | 1d6 bludgeoning | 1        | —                                                  | 2        | [[Hindering Blow]]      | [[Halting Blow]]   |
-| [[Quarterstaff]] | 1d6 bludgeoning | 1        | [[twin]], [[versatile]]                            | 2        | [[Defensive Stance]]    | [[Focused Stance]] |
-| [[Sickle]]       | 1d4 slashing    | L        | [[light]]                                          | -        | [[Turn away the blade]] | [[Biting Blade]]   |
-| [[Spear]]        | 1d6 piercing    | 1        | [[Thrown]] (range 20/60), [[reach]], [[versatile]] | 2        | [[Overwatch]]           | [[Braced attack]]  |
+| Name             |             | Damage          | [[Bulk]] | Properties                                         | [[Heft]] | Special                 | Mastery            |
+| ---------------- | ----------- | --------------- | -------- | -------------------------------------------------- | -------- | ----------------------- | ------------------ |
+| [[Club]]         | Inexpensive | 1d4 bludgeoning | 1        | [[light]]                                          | -        | [[Dirty Trick]]         | [[Dirt Cheap]]     |
+| [[Dagger]]       | Moderate    | 1d4 piercing    | L        | [[finesse]], [[light]], [[thrown]] (range 20/60)   | -        | [[Twist the Blade]]     | [[Bloodletter]]    |
+| [[Greatclub]]    | Inexpensive | 1d8 bludgeoning | 2        | -                                                  | 4        | [[Pushback]]            | [[Sit down]]       |
+| [[Handaxe]]      | Moderate    | 1d6 slashing    | 1        | [[thrown]] (range 20/60), [[hack]]                 | 1        | [[Sweeping swing]]      | [[Follow up]]      |
+| [[Javelin]]      | Inexpensive | 1d6 piercing    | L        | [[thrown]] (range 30/120)                          | 1        | [[Pilum]]               | [[Beast feller]]   |
+| [[Light Hammer]] | Inexpensive | 1d4 bludgeoning | L        | [[light]], [[thrown]] (range 20/60)                | 1        | [[Bounceback]]          | [[Battle Rhythm]]  |
+| [[Mace]]         | Moderate    | 1d6 bludgeoning | 1        | —                                                  | 2        | [[Hindering Blow]]      | [[Halting Blow]]   |
+| [[Quarterstaff]] | Inexpensive | 1d6 bludgeoning | 1        | [[twin]], [[versatile]]                            | 2        | [[Defensive Stance]]    | [[Focused Stance]] |
+| [[Sickle]]       | Inexpensive | 1d4 slashing    | L        | [[light]]                                          | -        | [[Turn away the blade]] | [[Biting Blade]]   |
+| [[Spear]]        | Moderate    | 1d6 piercing    | 1        | [[thrown]] (range 20/60), [[reach]], [[versatile]] | 2        | [[Overwatch]]           | [[Braced attack]]  |
 
 
 # Simple Ranged Weapons
-| Name                | Damage          | [[Bulk]] | Properties                                            | [[Heft]] | Special           | Mastery              |
-| ------------------- | --------------- | -------- | ----------------------------------------------------- | ---- | ----------------- | -------------------- |
-| [[Crossbow, light]] | 1d8 piercing    | 1        | [[Projectile]] (range 80/320), [[loading]]            | 3    | [[Shield brace]]  | [[Fast hands]]       |
-| [[Dart]]            | 1d4 piercing    | L        | [[Ammunition]], [[Finesse]], [[thrown]] (range 20/60) | -    | [[Scatter throw]] | [[Improved Scatter]] |
-| [[Shortbow]]        | 1d6 piercing    | 1        | [[Projectile]] (range 80/320), [[two-handed]]         | -    | [[Weaving shots]] | [[Hunter’s rush]]    |
-| [[Sling]]           | 1d4 bludgeoning | L        | [[Projectile]] (range 30/120), [[two-handed]]         | -    | [[Shrapnel shot]] | [[Goliath feller]]   |
+| Name                |             | Damage          | [[Bulk]] | Properties                                            | [[Heft]] | Special           | Mastery              |
+| ------------------- | ----------- | --------------- | -------- | ----------------------------------------------------- | -------- | ----------------- | -------------------- |
+| [[Crossbow, light]] | Moderate    | 1d8 piercing    | 1        | [[projectile]] (range 80/320), [[loading]]            | 3        | [[Shield brace]]  | [[Fast hands]]       |
+| [[Dart]]            | Inexpensive | 1d4 piercing    | L        | [[ammunition]], [[finesse]], [[thrown]] (range 20/60) | -        | [[Scatter throw]] | [[Improved Scatter]] |
+| [[Shortbow]]        | Moderate    | 1d6 piercing    | 1        | [[projectile]] (range 80/320), [[two-handed]]         | -        | [[Weaving shots]] | [[Hunter’s rush]]    |
+| [[Sling]]           | Inexpensive | 1d4 bludgeoning | L        | [[projectile]] (range 30/120), [[two-handed]]         | -        | [[Shrapnel shot]] | [[Goliath feller]]   |
 
 
 # Martial Melee Weapons
 
-| Name            | Damage          | [[Bulk]] | Properties                 | [[Heft]] | Special                      | Mastery              |
-| --------------- | --------------- | -------- | -------------------------- | -------- | ---------------------------- | -------------------- |
-| [[Battleaxe]]   | 1d8 slashing    | 1        | [[hack]]                   | 4        | [[Sweeping swing]]           | [[Deep Bite]]        |
-| [[Flail]]       | 1d8 bludgeoning | 1        | [[finesse]], [[versatile]] | 4        | [[Angled strike]]            | [[Cleaving strike]]  |
-| [[Glaive]]      | 1d10 slashing   | 2        | [[reach]]                  | 6        | [[Curved Blade]]             | [[Brace!]]           |
-| [[Greataxe]]    | 1d12 slashing   | 2        | [[hack]]                   | 8        | [[Improved sweeping swing]]  | [[Improved Cleave]]  |
-| [[Greatsword]]  | 2d6 slashing    | 2        | —                          | 8        | [[Deep Cut]]                 | [[Kingslayer]]       |
-| [[Halberd]]     | 1d10 slashing   | 2        | [[reach]], [[hack]]            | 8        | [[Thrusting blade]]          | [[Brace!]]           |
-| [[Lance]]       | 1d10piercing    | 2        | [[Reach]], special         | 6        | [[Pushback]]                 | [[Rushing strike]]   |
-| [[Longsword]]   | 1d8 slashing    | 1        | —                          | 4        | [[Mordhau]]                  | [[Prince slayer]]    |
-| [[Maul]]        | 2d6 bludgeoning | 2        | —                          | 8        | [[Pushback]]                 | [[Sit down]]         |
-| [[Morningstar]] | 1d8 piercing    | 1        | —                          | 3        | [[Spiked Smash]]             | [[Improved Impale]]  |
-| [[Pike]]        | 1d10 piercing   | 2        | [[reach]]                  | 8        | [[Chargestopper]]            | [[Brace!]]           |
-| [[Rapier]]      | 1d8 piercing    | 1        | [[finesse]], [[versatile]] | 3        | [[Dukeslayer]]               | [[Puncture]]         |
-| [[Scimitar]]    | 1d6 slashing    | 1        | [[Finesse]], [[versatile]] | 2        | [[Curved Blade]]             | [[Biting Blade]]     |
-| [[Shortsword]]  | 1d6 piercing    | L        | [[Finesse]], [[light]]     | 2        | [[Slice n’ Dice]]            | [[Duelist’s Backup]] |
-| [[Trident]]     | 1d6 piercing    | 1        | [[Thrown]] (range 20/60)   | 2        | [[Hindering Blow]]           | [[Impale]]           |
-| [[War Pick]]    | 1d8 piercing    | 1        | —                          | 3        | [[Impale]]                   | [[Miner’s Joy]]      |
-| [[Warhammer]]   | 1d8 bludgeoning | 1        | [[Dueling]]                | 3        | [[Improved Hindering Blows]] | [[Pound the nail]]   |
+| Name            |                | Damage          | [[Bulk]] | Properties                 | [[Heft]] | Special                      | Mastery              |
+| --------------- | -------------- | --------------- | -------- | -------------------------- | -------- | ---------------------------- | -------------------- |
+| [[Battleaxe]]   | Expensive      | 1d8 slashing    | 1        | [[hack]]                   | 4        | [[Sweeping swing]]           | [[Deep Bite]]        |
+| [[Flail]]       | Expensive      | 1d8 bludgeoning | 1        | [[finesse]], [[versatile]] | 4        | [[Angled strike]]            | [[Cleaving strike]]  |
+| [[Glaive]]      | Very Expensive | 1d10 slashing   | 2        | [[reach]]                  | 6        | [[Curved Blade]]             | [[Brace!]]           |
+| [[Greataxe]]    | Very Expensive | 1d12 slashing   | 2        | [[hack]]                   | 8        | [[Improved sweeping swing]]  | [[Improved Cleave]]  |
+| [[Greatsword]]  | Very Expensive | 2d6 slashing    | 2        | —                          | 8        | [[Deep Cut]]                 | [[Kingslayer]]       |
+| [[Halberd]]     | Very Expensive | 1d10 slashing   | 2        | [[reach]], [[hack]]        | 8        | [[Thrusting blade]]          | [[Brace!]]           |
+| [[Lance]]       | Very Expensive | 1d10piercing    | 2        | [[reach]], special         | 6        | [[Pushback]]                 | [[Rushing strike]]   |
+| [[Longsword]]   | Expensive      | 1d8 slashing    | 1        | —                          | 4        | [[Mordhau]]                  | [[Prince slayer]]    |
+| [[Maul]]        | Very Expensive | 2d6 bludgeoning | 2        | —                          | 8        | [[Pushback]]                 | [[Sit down]]         |
+| [[Morningstar]] | Moderate       | 1d8 piercing    | 1        | —                          | 3        | [[Spiked Smash]]             | [[Improved Impale]]  |
+| [[Pike]]        | Expensive      | 1d10 piercing   | 2        | [[reach]]                  | 8        | [[Chargestopper]]            | [[Brace!]]           |
+| [[Rapier]]      | Expensive      | 1d8 piercing    | 1        | [[finesse]], [[versatile]] | 3        | [[Dukeslayer]]               | [[Puncture]]         |
+| [[Scimitar]]    | Expensive      | 1d6 slashing    | 1        | [[finesse]], [[versatile]] | 2        | [[Curved Blade]]             | [[Biting Blade]]     |
+| [[Shortsword]]  | Expensive      | 1d6 piercing    | L        | [[finesse]], [[light]]     | 2        | [[Slice n’ Dice]]            | [[Duelist’s Backup]] |
+| [[Trident]]     | Expensive      | 1d6 piercing    | 1        | [[thrown]] (range 20/60)   | 2        | [[Hindering Blow]]           | [[Impale]]           |
+| [[War Pick]]    | Expensive      | 1d8 piercing    | 1        | —                          | 3        | [[Impale]]                   | [[Miner’s Joy]]      |
+| [[Warhammer]]   | Expensive      | 1d8 bludgeoning | 1        | [[dueling]]                | 3        | [[Improved Hindering Blows]] | [[Pound the nail]]   |
 
 # Martial Ranged Weapons
-| Name                | Damage        | [[Bulk]] | Properties                                     | [[Heft]] | Special               | Mastery             |
-| ------------------- | ------------- | -------- | ---------------------------------------------- | -------- | --------------------- | ------------------- |
-| [[Blowgun]]         | 1 piercing    | L        | [[Projectile]] (range 25/100), [[loading]]     | -        | [[Steeped in poison]] | [[Silent Takedown]] |
-| [[Crossbow, Heavy]] | 1d10 piercing | 2        | [[Projectile]] (range 100/400), [[loading]]    | 4        | [[Braced fire]]       | [[Fast hands]]      |
-| [[Longbow]]         | 1d8 piercing  | 2        | [[Projectile]] (range 150/600), [[two-handed]] | -        | [[Precision shot]]    | [[Cover fire]]      |
+| Name                |             | Damage        | [[Bulk]] | Properties                                     | [[Heft]] | Special               | Mastery             |
+| ------------------- | ----------- | ------------- | -------- | ---------------------------------------------- | -------- | --------------------- | ------------------- |
+| [[Blowgun]]         | Inexpensive | 1 piercing    | L        | [[projectile]] (range 25/100), [[loading]]     | -        | [[Steeped in poison]] | [[Silent Takedown]] |
+| [[Crossbow, Heavy]] | Expensive   | 1d10 piercing | 2        | [[projectile]] (range 100/400), [[loading]]    | 4        | [[Braced fire]]       | [[Fast hands]]      |
+| [[Longbow]]         | Expensive   | 1d8 piercing  | 2        | [[projectile]] (range 150/600), [[two-handed]] | -        | [[Precision shot]]    | [[Cover fire]]      |
 
 # Exotic Weapons
-| Name                   | Damage                          | [[Bulk]] | Properties                                                       | [[Heft]] | Special                          | Mastery                   |
-| ---------------------- | ------------------------------- | -------- | ---------------------------------------------------------------- | -------- | -------------------------------- | ------------------------- |
-| [[Whip]]               | 1d4 slashing                    | 1        | [[Finesse]], [[reach]], special                                  | -        | [[Hold in place]]                | [[Crack the whip]]        |
-| [[Net]]                | —                               | 1        | Special, [[thrown]] (range 5/15)                                 | -        | [[Pull down]]                    | [[Spread throw]]          |
-| [[Crossbow, Hand]]     | 1d6 piercing                    | L        | [[Projectile]] (range 30/120), [[light]], [[loading]]            | -        | [[Quickdraw]]                    | [[Akimbo]]                |
-| [[Bastard Sword]]      | 1d10 slashing                   | 2        | -                                                                | 6        | [[Mordhau]]                      | [[Kingslayer]]            |
-| [[Bladed Shield]]      | 1d6 slashing                    | 1        | [[Armor Value]](1d6), [[Vigor]](3), [[thrown]] (range 10/20)     | 3        | [[Follow up]]                    | [[Duelist’s Backup]]      |
-| [[Cestus]]             | 3 + [[Vigor]] Bludgeoning       | L        | [[Interchangeable]]                                              | -        | [[Razzle Dazzle]]                | [[Pound Town]]            |
-| [[Chakram]]            | 1d6 Slashing                    | 1        | [[thrown]](range 30/60), [[finesse]], [[versatile]]              | -        | [[Bouncing Blade]]               | [[Sawing Blade]]          |
-| [[Longbow, Composite]] | 1d8 Piercing                    | 2        | [[Composite]], [[Projectile]] (range 150/600), [[two-handed]]    | -        | [[Precision shot]]               | [[Cover fire]]            |
-| [[Katana]]             | 1d8 Slashing                    | 1        | -                                                                | 4        | [[Mada Mada]]                    | [[Sugei!]]                |
-| [[Nodachi]]            | 2d6 Slashing                    | 2        | -                                                                | 8        | [[Mada Mada]]                    | [[Sugei!]]                |
-| [[Kusiragama]]         | 1d8 Slashing                    | 2        | [[finesse]], [[versatile]], [[light]], [[reach]], [[two-handed]] | -        | [[Catching Claw]]                | [[Biting Talon]]          |
-| [[Wakizashi]]          | 1d6 Slashing                    | L        | [[finesse]], [[light]]                                           | 2        | [[Mada Mada]]                    | [[Sugei!]]                |
-| [[Scythe]]             | 2d4 Slashing                    | 2        | -                                                                | 6        | [[Grim Impale]]                  | [[Improved Cleave]]       |
-| [[Twin-Blade]]         | 1d10 Slashing                   | 2        | [[twin]], [[versatile]]                                          | 4        | [[Dancing Steel]]                | [[Wholesale Slaughter]]   |
-| [[Macahuitl]]          | 1d8 Slashing                    | 1        | [[hack]]                                                         | 4        | [[Rending Slash]]                | [[Tear the Flesh]]        |
-| [[Khopesh]]            | 1d8 Slashing                    | 1        | Special                                                          | 3        | [[Biting Blade]]                 | [[Sweeping swing]]        |
-| [[Battle Banner]]      | 1d6 Bludgeoning                 | 1        | [[thrown]](20/60), [[versatile]], [[reach]]                      | 2        | [[Overwatch]]                    | [[Braced attack]]         |
-| [[Dadao]]              | 1d10 Slashing                   | 2        | [[finesse]], [[versatile]],                                      | 5        | [[Curved Blade]]                 | [[Biting Blade]]          |
-| [[Sai]]                | 1d4 Bludgeoning                 | 1        | [[finesse]], [[light]]                                           | -        | [[Turn away the blade]]          | [[Lock the Blade]]        |
-| [[Tessen]]             | 1d4 Bludgeoning or 1d4 Slashing | L        | [[thrown]](20/60),<br>Special                                    | -        | [[Curved Blade]], [[Bounceback]] | [[Dance of Hidden Death]] |
+| Name                   |             | Damage                          | [[Bulk]] | Properties                                                       | [[Heft]] | Special                          | Mastery                   |
+| ---------------------- | ----------- | ------------------------------- | -------- | ---------------------------------------------------------------- | -------- | -------------------------------- | ------------------------- |
+| [[Whip]]               | Moderate    | 1d4 slashing                    | 1        | [[finesse]], [[reach]], special                                  | -        | [[Hold in place]]                | [[Crack the whip]]        |
+| [[Net]]                | Inexpensive | —                               | 1        | Special, [[thrown]] (range 5/15)                                 | -        | [[Pull down]]                    | [[Spread throw]]          |
+| [[Crossbow, Hand]]     | Expensive   | 1d6 piercing                    | L        | [[projectile]] (range 30/120), [[light]], [[loading]]            | -        | [[Quickdraw]]                    | [[Akimbo]]                |
+| [[Bastard Sword]]      | Expensive   | 1d10 slashing                   | 2        | -                                                                | 6        | [[Mordhau]]                      | [[Kingslayer]]            |
+| [[Bladed Shield]]      | Expensive   | 1d6 slashing                    | 1        | [[Armor Value]](1d6), [[Vigor]](3), [[thrown]] (range 10/20)     | 3        | [[Follow up]]                    | [[Duelist’s Backup]]      |
+| [[Cestus]]             | inexpensive | 3 + [[Vigor]] Bludgeoning       | L        | [[Interchangeable]]                                              | -        | [[Razzle Dazzle]]                | [[Pound Town]]            |
+| [[Chakram]]            | Expensive   | 1d6 Slashing                    | 1        | [[thrown]](range 30/60), [[finesse]], [[versatile]]              | -        | [[Bouncing Blade]]               | [[Sawing Blade]]          |
+| [[Longbow, Composite]] | Expensive   | 1d8 Piercing                    | 2        | [[Composite]], [[projectile]] (range 150/600), [[two-handed]]    | -        | [[Precision shot]]               | [[Cover fire]]            |
+| [[Katana]]             | Expensive   | 1d8 Slashing                    | 1        | -                                                                | 4        | [[Mada Mada]]                    | [[Sugei!]]                |
+| [[Nodachi]]            | Expensive   | 2d6 Slashing                    | 2        | -                                                                | 8        | [[Mada Mada]]                    | [[Sugei!]]                |
+| [[Kusiragama]]         | Expensive   | 1d8 Slashing                    | 2        | [[finesse]], [[versatile]], [[light]], [[reach]], [[two-handed]] | -        | [[Catching Claw]]                | [[Biting Talon]]          |
+| [[Wakizashi]]          | Expensive   | 1d6 Slashing                    | L        | [[finesse]], [[light]]                                           | 2        | [[Mada Mada]]                    | [[Sugei!]]                |
+| [[Scythe]]             | Expensive   | 2d4 Slashing                    | 2        | -                                                                | 6        | [[Grim Impale]]                  | [[Improved Cleave]]       |
+| [[Twin-Blade]]         | Expensive   | 1d10 Slashing                   | 2        | [[twin]], [[versatile]]                                          | 4        | [[Dancing Steel]]                | [[Wholesale Slaughter]]   |
+| [[Macahuitl]]          | Expensive   | 1d8 Slashing                    | 1        | [[hack]]                                                         | 4        | [[Rending Slash]]                | [[Tear the Flesh]]        |
+| [[Khopesh]]            | Expensive   | 1d8 Slashing                    | 1        | Special                                                          | 3        | [[Biting Blade]]                 | [[Sweeping swing]]        |
+| [[Battle Banner]]      | Moderate    | 1d6 Bludgeoning                 | 1        | [[thrown]](20/60), [[versatile]], [[reach]]                      | 2        | [[Overwatch]]                    | [[Braced attack]]         |
+| [[Dadao]]              | Expensive   | 1d10 Slashing                   | 2        | [[finesse]], [[versatile]],                                      | 5        | [[Curved Blade]]                 | [[Biting Blade]]          |
+| [[Sai]]                | Expensive   | 1d4 Bludgeoning                 | 1        | [[finesse]], [[light]]                                           | -        | [[Turn away the blade]]          | [[Lock the Blade]]        |
+| [[Tessen]]             | Expensive   | 1d4 Bludgeoning or 1d4 Slashing | L        | [[thrown]](20/60),<br>Special                                    | -        | [[Curved Blade]], [[Bounceback]] | [[Dance of Hidden Death]] |
 
 
 
