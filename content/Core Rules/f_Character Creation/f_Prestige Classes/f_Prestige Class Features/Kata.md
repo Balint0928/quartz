@@ -9,8 +9,11 @@ Your path as a warrior is measured in the many martial arts and techniques you h
 
 > [!tip] Jinpu
 > **Prerequisite**: Lvl 6
+> 
 > **Type:** Crane
+> 
 > **[[Ketsui]]** cost: 1-2
+> 
 > As an action you make a number of ranged weapon attacks with a range of 30ft. using blades of wind that equals the amount of Ketsui expended. Make these attack and damage rolls as though you are making melee weapon attacks. Attacks made in this way deal thunder damage.
 
 
