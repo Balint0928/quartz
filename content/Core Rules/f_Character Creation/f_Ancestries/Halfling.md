@@ -21,7 +21,7 @@ As a child of the rolling hills and verdant plains, you are quick on your feet, 
 Gain proficiency in Perception. Additionally, the first time a creature that is at least one size larger than you, attacks you in combat, they have disadvantage on their attack.
 
 ## Dunesfolk
-As a Dunesfolk, you've adapted to the harsh desert environments and thrived. The land from which you hail is known for its riches and merchantry as much as its known for his corruption.
+As a Dunesfolk, you've adapted to the harsh desert environments and thrived. The land from which you hail is known for its riches and merchantry as much as its known for its corruption.
 
 
 **Lineage feature:**

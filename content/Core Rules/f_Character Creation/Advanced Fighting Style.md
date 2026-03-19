@@ -1,5 +1,5 @@
 ---
-title: Advanced Fighting Styles
+title: Advanced Fighting Style
 draft: false
 tags:
   - martial

@@ -20,3 +20,22 @@ tags:
 
 **Level 5**
 - [[Extra Attack]]
+
+## Martial Role Progression
+
+You gain the following if your character possesses Martial Role Progression from their Prestige Class.
+
+**Level 6**
+- Additional [[Fighting Style]]
+
+**Level 7**
+- [[Advanced Fighting Style]]
+
+**Level 8**
+- [[Advanced Martial Role Feat]]
+
+**Level 9**
+- [[Battle Acumen]]
+
+**Level 10**
+- [[Improved Extra Attack]]
