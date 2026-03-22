@@ -7,4 +7,10 @@ tags:
 - [[Tool Adept]]
 - [[Grenadier]]
 - [[Armor Mender]]
-- [[Taunter]]
+
+## Crafting Feats
+
+- [[Forge Arms]]
+- [[Forge Armor]]
+- [[Forge Accessories]]
+- [[Alchemy]]

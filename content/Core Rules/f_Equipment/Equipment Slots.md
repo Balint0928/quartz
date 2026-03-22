@@ -7,15 +7,21 @@ When a character equips an item, the item fills up an equipment slot. There can 
 
 **Head**
 - Helmets, Caps, Crowns and any type of headgear
+
 **Body**
 - Armor
+
 **Feet**
 - Boots, sandals, sabatons
+
 **Hands**
 - Gloves, Gauntlets 
+
 **Back**
 - Capes, cloaks, banners etc...
+
 **Accessories** - 3 slots
 - Rings, Amulets, Talismans, Necklaces, Earrings etc...
+
 **Active** - 2 slots
 - Weapons, Shields, Arcane Focuses, handheld items

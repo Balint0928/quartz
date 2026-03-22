@@ -20,3 +20,28 @@ tags:
 
 **Level 5**
 - [[Extra Spells]], [[Vent Aether]]
+
+
+## Magical Role Progression
+
+You gain the following if your character possesses Magical Role Progression from their Prestige Class.
+
+**Level 6**
+
+- [[Spellcasting Progression]]
+
+**Level 7**
+
+- [[Spell Selection]]
+
+**Level 8**
+
+- [[Advanced Magical Role Feat]]
+
+**Level 9**
+
+- [[Improved Channeling]]
+
+**Level 10**
+
+- [[The Aether Within]]

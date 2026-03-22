@@ -23,6 +23,6 @@ When you gain this feature, you can choose an option from below. If you would ga
 
 - **Two-Weapon Fighting:** [[Offhand Attack]]s are used as part of your [[attack action]] and no longer require a bonus Actions to use.
 
-- **Provocateur:** While a creature that attacks you is under the effect of your [[provoke]], you can, as a reaction, make an Intimidation, Persuasion or Performance check against the creature’s contested Perception or Insight. On a success, the effect of your [[Provoke]] is extended for another round.
+- **Provocateur:** While a creature that attacks you is under the effect of your [[Provoke]], you can, as a reaction, make an Intimidation, Persuasion or Performance check against the creature’s contested Perception or Insight. On a success, the effect of your [[Provoke]] is extended for another round.
 
 - **Brawler:** When you hit with your Unarmed Strike and deal damage, you can deal Bludgeoning damage equal to 1d4 plus your Strength modifier instead of the normal damage of an Unarmed Strike. When you reach level 5, the d4 becomes a d6. Additionally, at the start of each of your turns, you can deal 1d4 Bludgeoning damage to one creature [[Grappled]] by you.
