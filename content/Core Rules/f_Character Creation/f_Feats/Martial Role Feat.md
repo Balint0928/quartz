@@ -5,7 +5,10 @@ tags:
   - feat
   - role_feature
 ---
+# **Adept Feats**
 - [[Weapon Adept]]
 - [[Armor Adept]]
 - [[Shield Adept]]
 - [[Combat Adept]]
+
+# **Limit Break Feats**

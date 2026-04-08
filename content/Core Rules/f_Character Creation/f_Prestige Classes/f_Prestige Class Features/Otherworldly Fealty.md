@@ -4,7 +4,7 @@ draft: false
 tags:
   - class_feature
 ---
-When you take this prestige class, your [[Sacred Oath]] feature changes into this feature, depending on your [[Patron]]. 
+When you take this prestige class, if you have the [[Sacred Oath]] feature, it changes into this feature, depending on your chosen [[Patron]]. 
 
 ### The Fiend - Ad Infernus
 Tenets:

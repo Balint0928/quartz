@@ -64,7 +64,7 @@ When a table says L, substitute the level of the spell.
 ### The Spell targets allies
 | d8  | Effect Title | Spell Effect                                                                                                                                   |
 | --- | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | Dexterous    | For 1+L rounds, the targets' movements cannot trigger reactions. ([[Taunt]], [[Overwatch]], [[Opportunity Attack]] etc.)                       |
+| 1   | Dexterous    | For 1+L rounds, the targets' movements cannot trigger reactions. ([[Overwatch]], [[Opportunity Attack]] etc.)                                  |
 | 2   | Accelerating | For 1 minute, before taking their action, the targets can move an extra 5 + 5xL feet.                                                          |
 | 3   | Energizing   | Until the start of your next turn, the targets add 1 + L to their attack rolls and Spell save DCs.                                             |
 | 4   | Oracular     | For 1 + L rounds, the targets can add your spellcasting ability modifier to any [[Arcane Knowledge]] or [[Martial Knowledge]] check they make. |

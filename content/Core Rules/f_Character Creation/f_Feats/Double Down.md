@@ -6,5 +6,5 @@ tags:
 ---
 Based on your choice with the [[Dilettante]] feature, you gain additional features
 
-- [[Martial]]: Advanced Fighting Style
-- [[Mundane]]: [[Taunt]]
+- [[Martial]]: [[Advanced Fighting Style]]
+- [[Mundane]]: Heavy Armor Training

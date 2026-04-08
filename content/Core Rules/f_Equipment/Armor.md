@@ -30,12 +30,12 @@ tags:
 | [[Plate]]      | 1500 | Exorbitant     | 16  | 8               | 4    | 6         | 4          | [[Restricting]], [[Heavy]],  <br>[[Plated]] | [[Iron Grip]]      | [[True Steel]]    |
 
 # Shields
-| Name             | Cost |                | DV Bonus | [[Armor Value]] | Bulk | [[Vigor]] | Properties   | Special            | Mastery              |
-| ---------------- | ---- | -------------- | -------- | --------------- | ---- | --------- | ------------ | ------------------ | -------------------- |
-| [[Buckler]]      | 5    | Inexpensive    | +1       | 1               | L    | 1         | -            | [[Riposte]]        | [[Improved Riposte]] |
-| [[Light Shield]] | 10   | Moderate       | +2       | 2               | 1    | 2         | -            | [[Wiggle room]]    | [[Guard Up]]         |
-| [[Heavy Shield]] | 20   | Expensive      | +2       | 3               | 1    | 3         | [[Strapped]] | [[Guard Up]]       | [[Shield Bash]]      |
-| [[Tower Shield]] | 200  | Very-Expensive | +3       | 4               | 4    | 4         | [[Strapped]] | [[Bracing Shield]] | [[Halt!]]            |
+| Name             | Cost |                | DV Bonus | [[Armor Value]] | Bulk | [[Vigor]] | Properties              | Special            | Mastery              |
+| ---------------- | ---- | -------------- | -------- | --------------- | ---- | --------- | ----------------------- | ------------------ | -------------------- |
+| [[Buckler]]      | 5    | Inexpensive    | +1       | 1               | L    | 1         | [[Guard]]               | [[Riposte]]        | [[Improved Riposte]] |
+| [[Light Shield]] | 10   | Moderate       | +2       | 2               | 1    | 2         | [[Guard]]               | [[Wiggle room]]    | [[Guard Up]]         |
+| [[Heavy Shield]] | 20   | Expensive      | +2       | 3               | 1    | 3         | [[Guard]], [[Strapped]] | [[Guard Up]]       | [[Shield Bash]]      |
+| [[Tower Shield]] | 200  | Very-Expensive | +3       | 4               | 4    | 4         | [[Guard]], [[Strapped]] | [[Bracing Shield]] | [[Halt!]]            |
 
 # Armor Properties
 - [[Armor Value]]

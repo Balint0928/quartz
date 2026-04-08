@@ -5,7 +5,7 @@ tags:
   - class_feature
   - cleric
 ---
-You learn two spells from the Cleric spell list, that match your deity’s domains and doesn’t collide with their Anathemas.
+You learn two 1st level spells and one cantrip from the Cleric spell list, that match your deity’s domains and doesn’t collide with their Anathemas.
 
 Additionally, while you have at least one of the following type of Divine Focus, your spells are augmented:
 
