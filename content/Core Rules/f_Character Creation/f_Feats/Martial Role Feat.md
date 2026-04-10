@@ -12,3 +12,9 @@ tags:
 - [[Combat Adept]]
 
 # **Limit Break Feats**
+You can only have one Limit Break feat. 
+
+- [[Tank Limit Break]]
+- [[Melee Limit Break]]
+- [[Ranged Limit Break]]
+- [[Control Limit Break]]
