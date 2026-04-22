@@ -6,6 +6,7 @@ tags:
 ---
 - [[Tough]]
 - [[Resilient]]
+- [[Touchstone Attuned]]
 - [[Amateur Strategist]]
 - [[Amateur Warrior]] 
 - [[Amateur Drifter]]

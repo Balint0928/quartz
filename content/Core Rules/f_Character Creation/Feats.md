@@ -9,3 +9,4 @@ Feats are organized into 4 main groups. Ancestry, Class, General and Role feats.
 - [[Class Feat]]
 - [[General Feat]]
 - [[Role feat]]
+- [[Advanced Role Feat]]

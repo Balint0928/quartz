@@ -44,4 +44,4 @@ You gain the following if your character possesses Wanderer Role Progression fro
 
 **Level 10**
 
-- 
+- [[Incredible Speed]]

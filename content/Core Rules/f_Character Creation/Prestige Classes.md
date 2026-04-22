@@ -47,21 +47,25 @@ The following prestige classes grants you abilities of the class that you are NO
 | [[Cleric]]    | [[Evangelist]]    |
 | [[Druid]]     | [[Damhsóir]]      |
 | [[Fighter]]   | [[Battle Herald]] |
+| [[Rogue]]     | [[Charlatan]]     |
+| [[Wizard]]    | [[Loreseeker]]    |
 ## [[Cleric]]
 
-| Second Class  | Prestige Class     |
-| ------------- | ------------------ |
-| [[Barbarian]] | [[Skald]]          |
-| [[Bard]]      | [[Evangelist]]     |
-| [[Monk]]      | [[Abolisher]]      |
-| [[Wizard]]    | [[Mystic Theurge]] |
+| Second Class | Prestige Class         |
+| ------------ | ---------------------- |
+| [[Bard]]     | [[Evangelist]]         |
+| [[Druid]]    | [[Keeper of the Veil]] |
+| [[Monk]]     | [[Abolisher]]          |
+| [[Ranger]]   | [[Sanctifier]]         |
+| [[Wizard]]   | [[Mystic Theurge]]     |
 
 ## [[Druid]]
-| Second Class | Prestige Class     |
-| ------------ | ------------------ |
-| [[Bard]]     | [[Damhsóir]]       |
-| [[Monk]]     | [[Grove Sentinel]] |
-| [[Rogue]]    | [[Shadow Thorn]]   |
+| Second Class | Prestige Class         |
+| ------------ | ---------------------- |
+| [[Bard]]     | [[Damhsóir]]           |
+| [[Cleric]]   | [[Keeper of the Veil]] |
+| [[Monk]]     | [[Grove Sentinel]]     |
+| [[Rogue]]    | [[Shadow Thorn]]       |
 
 ## [[Fighter]]
 | Second Class  | Prestige Class        |
@@ -69,6 +73,7 @@ The following prestige classes grants you abilities of the class that you are NO
 | [[Barbarian]] | [[Ancestral Warrior]] |
 | [[Bard]]      | [[Battle Herald]]     |
 | [[Monk]]      | [[Wandering Warrior]] |
+| [[Rogue]]     | [[Outlaw]]            |
 | [[Wizard]]    | [[Mana Knight]]       |
 ## [[Monk]]
 | Second Class  | Prestige Class        |
@@ -87,12 +92,15 @@ The following prestige classes grants you abilities of the class that you are NO
 ## [[Ranger]]
 | Second Class | Prestige Class    |
 | ------------ | ----------------- |
+| [[Cleric]]   | [[Sanctifier]]    |
 | [[Rogue]]    | [[Bounty Hunter]] |
 | [[Wizard]]   | [[Arcane Archer]] |
 ## [[Rogue]]
 | Second Class | Prestige Class       |
 | ------------ | -------------------- |
+| [[Bard]]     | [[Charlatan]]        |
 | [[Druid]]    | [[Shadow Thorn]]     |
+| [[Fighter]]  | [[Outlaw]]           |
 | [[Paladin]]  | [[Avenger]]          |
 | [[Ranger]]   | [[Bounty Hunter]]    |
 | [[Wizard]]   | [[Arcane Trickster]] |
@@ -107,6 +115,7 @@ The following prestige classes grants you abilities of the class that you are NO
 ## [[Wizard]]
 | Second Class | Prestige Class       |
 | ------------ | -------------------- |
+| [[Bard]]     | [[Loreseeker]]       |
 | [[Cleric]]   | [[Mystic Theurge]]   |
 | [[Fighter]]  | [[Mana Knight]]      |
 | [[Ranger]]   | [[Arcane Archer]]    |
@@ -116,6 +125,8 @@ The following classes are not regionally locked, they just represent where these
 
 ## [[Sleepless Sands]]
 - [[Dervish]]
+- [[Sultan Worm Rider]]
+- [[Sleepless Sentinel]]
 ## [[Steppes of Azul]]
 - [[Restless Explorer]]
 ## [[Sea of Thousand Tears]] 

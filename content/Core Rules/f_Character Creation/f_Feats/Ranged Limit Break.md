@@ -4,7 +4,7 @@ draft: false
 tags:
   - feat
 ---
-# Limit Gauge
+ # Limit Gauge
 If at least one character has a *Limit Break* feat in a party, the party unlocks the Limit Gauge. The Gauge has a maximum charges that equals **Number of PCs x Party LvL x 10** (Minimum 100). The Gauge is filled when a PC takes damage in a combat encounter (the dmg doesn't have to reduce the HP). When that happens, add the damage taken to the Gauge. The following restrictions apply to the Limit Gauge:
 
 - Damage is only added once per effect. If an effect would deal damage multiple times or overtime, only add the first instance.
