@@ -15,7 +15,7 @@ Any enemy creature that enters your aura must succeed on a Charisma saving throw
 ### Great Knight
 **Aura of Valor:** You constantly emanate a prideful aura while you’re not [[Incapacitated]]. The aura extends 10 feet from you in every direction, but not through total cover.
 
-Whenever you or a friendly creature within 10 feet of you must make a saving throw, the creature gains a bonus to the saving throw equal to your Charisma modifier (with a minimum bonus of +1). You must be conscious to grant this bonus.
+Whenever you or a friendly creature within 10 feet of you must make a saving throw, the creature gains a bonus to the saving throw equal to your Charisma modifier (with a minimum bonus of +1). You can't have the [[Dying]] condition to grant this bonus.
 
 ### Crusader
 **Aura of Faith:** You constantly emanate a soothing aura while you’re not [[Incapacitated]]. The aura extends 10 feet from you in every direction, but not through total cover.

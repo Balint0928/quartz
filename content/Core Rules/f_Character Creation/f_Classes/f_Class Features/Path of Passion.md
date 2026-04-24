@@ -24,4 +24,4 @@ tags:
 
 - **Beasts' kin:** You are always under the effect of speak with animals.
 
-- **Wildling blood:** While you are in a Trance, you gain +2 to [[Martial Knowledge]] checks against Beasts and Humanoids. Additionally, When you succeed a Martial Knowledge check, you deal 1d6 extra weapon damage against that creature until the end of the combat.
+- **Wildling blood:** While you are in a Trance, you gain +2 to [[Martial Knowledge]] checks, +4 against Beasts and Humanoids. Additionally, When you succeed a Martial Knowledge check, you deal 1d6 extra weapon damage against that creature until the end of the combat. (This can trigger once per creature)
