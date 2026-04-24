@@ -19,7 +19,7 @@ Unlike other classes at level 3, you don't choose a "sub-class". Instead, your c
 ### Draconic
 - Bloodline spell: Dragon's Breath
 - Draconic Resilience: Your HP maximum increases by 3, and it increases by 1 whenever you gain another level.
-- Dragon Scales: When you aren't wearing armor, your AC equals 12 + your Dexterity modifier. This armor has an [[Armor Value]] that equals your permanent AP. You can only recover this [[Armor Value]] after finishing a [[Long Rest]].
+- Dragon Scales: When you aren't wearing armor, your DV equals 12 + your Dexterity modifier. This armor has an [[Armor Value]] that equals your permanent AP. You can only recover this [[Armor Value]] after finishing a [[Long Rest]].
 
 ### Shadow
 - Bloodline spell: Darkness

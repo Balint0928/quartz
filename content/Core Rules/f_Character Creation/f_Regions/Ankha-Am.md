@@ -17,7 +17,7 @@ The Ankhans revered the following old gods:
 - Quat - "Reminds us of the past, and guides us to the future", ancient spirit of guidance and foresight. Sacred animal is a Ram.
 
 # Major Settlement(s)
-Ankhara was the capital city of a once great and rich kingdom. Now, amidst its ruined patina, the broken people of Ankhara live under the control of the Sun Sultan's soldiers. The leadership of the city is divided between bickering church officials of the old gods of Ankha, who never see eye-to-eye enough to unite their people against the tyrant.
+Ankhera was the capital city of a once great and rich kingdom. Now, amidst its ruined patina, the broken people of Ankhara live under the control of the Sun Sultan's soldiers. The leadership of the city is divided between bickering church officials of the old gods of Ankha, who never see eye-to-eye enough to unite their people against the tyrant.
 
 # Role Passives
 

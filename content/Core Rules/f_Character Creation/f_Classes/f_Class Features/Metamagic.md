@@ -12,7 +12,7 @@ As your AP increases you unlock the usage of the following Metamagic options. Us
 
 | Current AP | Metamagic options                                            |
 | ---------- | ------------------------------------------------------------ |
-| 3          | [[Subtle Spell]], [[Distant Spell]], [[Careful Spell]]       |
+| 4          | [[Subtle Spell]], [[Distant Spell]], [[Careful Spell]]       |
 | 6          | [[Empowered Spell]], [[Extended Spell]]                      |
 | 9          | [[Quickened Spell]], [[Heightened Spell]], [[Twinned Spell]] |
 
