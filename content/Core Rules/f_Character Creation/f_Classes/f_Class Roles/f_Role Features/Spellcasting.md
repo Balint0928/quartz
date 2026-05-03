@@ -16,4 +16,6 @@ If you are a [[Warlock]], you get 2 Spell Slots of the highest level instead (se
 | **3rd**   | **4**   | **2**   | **—**   |
 | **4th**   | **4**   | **3**   | **—**   |
 | **5th**   | **4**   | **3**   | **2**   |
-Other spellcasting rules follow the basic 5e
+Other spellcasting rules follow the basic 5e.
+
+Whenever you expend a Spell Slot to cast a spell, that spell is considered to be [[Hard Cast]].

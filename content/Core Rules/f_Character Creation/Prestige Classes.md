@@ -108,10 +108,12 @@ The following prestige classes grants you abilities of the class that you are NO
 | Second Class | Prestige Class    |
 | ------------ | ----------------- |
 | [[Monk]]     | [[Spirit Weaver]] |
+| [[Warlock]]  | [[Tainted Well]]  |
 ## [[Warlock]]
-| Second Class | Prestige Class |
-| ------------ | -------------- |
-| [[Paladin]]  | [[Emissary]]   |
+| Second Class | Prestige Class   |
+| ------------ | ---------------- |
+| [[Paladin]]  | [[Emissary]]     |
+| [[Sorcerer]] | [[Tainted Well]] |
 ## [[Wizard]]
 | Second Class | Prestige Class       |
 | ------------ | -------------------- |
@@ -134,8 +136,11 @@ The following classes are not regionally locked, they just represent where these
 - [[Travelling Merchant]]
 ## [[Ankha-Am]]
 - [[Pestilent]]
+- [[Shadecaller]]
 ## [[The Ixalanti]]
 - [[Lancer]]
 ## [[The Misted Lands]]
 - [[Samurai]]
+- [[Sensei]]
+- [[Vestige]]
 
