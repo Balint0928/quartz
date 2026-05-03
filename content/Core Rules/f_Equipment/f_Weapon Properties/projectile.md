@@ -1,5 +1,5 @@
 ---
-title: projectile
+title: Projectile
 draft: false
 tags:
 ---

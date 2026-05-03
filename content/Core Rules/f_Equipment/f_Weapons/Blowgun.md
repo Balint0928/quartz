@@ -6,4 +6,4 @@ tags:
 ---
 | Damage     | Bulk | Properties                                 | Heft | Special               | Mastery             |
 | ---------- | ---- | ------------------------------------------ | ---- | --------------------- | ------------------- |
-| 1 piercing | L    | [[Projectile]] (range 25/100), [[loading]] | -    | [[Steeped in poison]] | [[Silent Takedown]] |
+| 1 piercing | L    | [[Projectile]] (range 25/100), [[Loading]] | -    | [[Steeped in poison]] | [[Silent Takedown]] |

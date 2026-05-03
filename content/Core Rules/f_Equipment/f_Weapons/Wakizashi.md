@@ -6,4 +6,4 @@ tags:
 ---
 | Damage       | Bulk | Properties             | Heft | Special       | Mastery    |
 | ------------ | ---- | ---------------------- | ---- | ------------- | ---------- |
-| 1d6 Slashing | L    | [[finesse]], [[light]] | 2    | [[Mada Mada]] | [[Sugei!]] |
+| 1d6 Slashing | L    | [[Finesse]], [[Light]] | 2    | [[Mada Mada]] | [[Sugei!]] |

@@ -16,7 +16,7 @@ If your mount is subjected to an effect that allows it to make a Dexterity savin
 While mounted, you can force an attack that hits your mount to hit you instead if you don't have the [[Incapacitated]] or [[Dying]] condition.
 
 ### Mounted Archery
-You can use ranged weapons with the [[two-handed]] or [[loading]] property, while mounted without any penalties.
+You can use ranged weapons with the [[Two-handed]] or [[Loading]] property, while mounted without any penalties.
 
 ### Ride-By Attack
 When you are mounted and use the [[Charge Action]], you may move and attack as if with the standard charge and then move again. Your total movement for the round can't exceed double your mounted speed. You and your mount do not provoke [[Opportunity Attack]]s from the opponent you attack during the charge.

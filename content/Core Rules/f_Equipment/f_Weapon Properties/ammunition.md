@@ -1,5 +1,5 @@
 ---
-title: ammunition
+title: Ammunition
 draft: false
 tags:
 ---

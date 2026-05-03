@@ -6,4 +6,4 @@ tags:
 ---
 | Damage       | Bulk | Properties                                          | Heft | Special            | Mastery          |
 | ------------ | ---- | --------------------------------------------------- | ---- | ------------------ | ---------------- |
-| 1d6 Slashing | 1    | [[thrown]](range 30/60), [[finesse]], [[versatile]] | -    | [[Bouncing Blade]] | [[Sawing Blade]] |
+| 1d6 Slashing | 1    | [[Thrown]](range 30/60), [[Finesse]], [[Versatile]] | -    | [[Bouncing Blade]] | [[Sawing Blade]] |

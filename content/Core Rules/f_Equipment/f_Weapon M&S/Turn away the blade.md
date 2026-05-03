@@ -4,4 +4,4 @@ draft: false
 tags:
   - weapon_special
 ---
-You gain +1 bonus to DV. This bonus does not stack with shields.
+This weapon gains the [[Hilt]] property for you.

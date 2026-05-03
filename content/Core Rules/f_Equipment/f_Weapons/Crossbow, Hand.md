@@ -6,4 +6,4 @@ tags:
 ---
 | Damage       | Bulk | Properties                                            | Heft | Special       | Mastery    |
 | ------------ | ---- | ----------------------------------------------------- | ---- | ------------- | ---------- |
-| 1d6 piercing | L    | [[Projectile]] (range 30/120), [[light]], [[loading]] | -    | [[Quickdraw]] | [[Akimbo]] |
+| 1d6 piercing | L    | [[Projectile]] (range 30/120), [[Light]], [[Loading]] | -    | [[Quickdraw]] | [[Akimbo]] |

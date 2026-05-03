@@ -129,6 +129,7 @@ The following classes are not regionally locked, they just represent where these
 - [[Sleepless Sentinel]]
 ## [[Steppes of Azul]]
 - [[Restless Explorer]]
+- [[Fate Spinner]]
 ## [[Sea of Thousand Tears]] 
 - [[Travelling Merchant]]
 ## [[Ankha-Am]]

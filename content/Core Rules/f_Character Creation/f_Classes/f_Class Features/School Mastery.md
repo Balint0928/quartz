@@ -14,7 +14,7 @@ Whenever you cast an abjuration spell of 1st level or higher, you gain Temporary
 Whenever you cast a spell that teleports you, you add your current AP x 5 to the amount of distance teleported.
 
 ## Divination
-Whenever you cast a Divination spell of 1st level or higher, you gain blindsight out to 30 feet, and your dodge value increases by an amount that equals your current AP. This lasts until the end of your next turn.
+Whenever you cast a Divination spell of 1st level or higher, you gain blindsight out to 30 feet, and your [[Dodge Value]] increases by an amount that equals your current AP. This lasts until the end of your next turn.
 
 ## Enchantment
 Whenever a target fails their saving throw against an Enchantment spell you casted, the next saving throw they make will be at disadvantage.

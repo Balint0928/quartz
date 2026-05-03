@@ -4,4 +4,4 @@ draft: false
 tags:
   - weapon_mastery
 ---
-Critical hits add an additional weapon damage die to the damage roll.
+While wielding this weapon, it is treated as having the [[Deadly]] property.

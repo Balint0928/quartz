@@ -6,4 +6,4 @@ tags:
 ---
 | Damage       | [[Bulk]] | Properties                                       | Heft | Special      | Mastery         |
 | ------------ | -------- | ------------------------------------------------ | ---- | ------------ | --------------- |
-| 1d4 piercing | L        | [[Finesse]], [[light]], [[thrown]] (range 20/60) | -    | [[Puncture]] | [[Bloodletter]] |
+| 1d4 piercing | L        | [[Finesse]], [[Light]], [[Thrown]] (range 20/60) | -    | [[Puncture]] | [[Bloodletter]] |

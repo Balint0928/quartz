@@ -4,4 +4,4 @@ draft: false
 tags:
   - weapon_special
 ---
-This weapon gains the [[dueling]] property while you are wielding it.
+This weapon gains the [[Dueling]] property while you are wielding it.

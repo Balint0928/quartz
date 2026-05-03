@@ -1,5 +1,5 @@
 ---
-title: light
+title: Light
 draft: false
 tags:
 ---

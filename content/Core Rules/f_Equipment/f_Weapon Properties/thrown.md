@@ -1,5 +1,5 @@
 ---
-title: thrown
+title: Thrown
 draft: false
 tags:
 ---

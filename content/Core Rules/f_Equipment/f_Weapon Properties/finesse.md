@@ -1,5 +1,5 @@
 ---
-title: finesse
+title: Finesse
 draft: false
 tags:
 ---

@@ -6,4 +6,4 @@ tags:
 ---
 | Damage       | [[Bulk]] | Properties                 | Heft | Special            | Mastery       |
 | ------------ | ---- | -------------------------- | ---- | ------------------ | ------------- |
-| 1d8 slashing | 1    | [[finesse]], [[versatile]] | 4    | [[Sweeping swing]] | [[Deep Bite]] |
+| 1d8 slashing | 1    | [[Finesse]], [[Versatile]] | 4    | [[Sweeping swing]] | [[Deep Bite]] |

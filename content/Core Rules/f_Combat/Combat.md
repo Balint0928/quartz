@@ -23,6 +23,7 @@ Common actions:
 - [[Dodge Action]]
 - [[Help Action]]
 - [[Stabilize Action]]
+- [[Use Item]]
 
 ### Bonus action
 

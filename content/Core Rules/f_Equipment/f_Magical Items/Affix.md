@@ -33,7 +33,7 @@ Certain Affixes have values in square brackets in their descriptions. These are 
 | Anointed   | Prefix | Armor, Shields                                   | 2     | When taking magical damage from a Profane source, the AV of this item is applied to the damage.                       |
 | Profane    | Prefix | Armor, Shields                                   | 2     | When taking magical damage from an Anointed source, the AV of this item is applied to the damage.                     |
 | Padded     | Prefix | Armor                                            | 1     | Adds the [[Comfortable]] property.                                                                                    |
-| Dueling    | Suffix | Weapon                                           | 1     | Adds the [[dueling]] property.                                                                                        |
+| Dueling    | Suffix | Weapon                                           | 1     | Adds the [[Dueling]] property.                                                                                        |
 | Hilted     | Prefix | Weapon                                           | 1     | Adds the [[Hilt]] property.                                                                                           |
 | Hollow     | Prefix | Weapon                                           | 1     | Allows storage of a dose of poison or alchemical agent.                                                               |
 | Spiked     | Prefix | Weapon                                           | 1     | Adds the [[Impale]] property.                                                                                         |

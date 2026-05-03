@@ -6,4 +6,4 @@ tags:
 ---
 | Damage       | Bulk | Properties               | Heft | Special            | Mastery       |
 | ------------ | ---- | ------------------------ | ---- | ------------------ | ------------- |
-| 1d6 slashing | 1    | [[thrown]] (range 20/60) | 1    | [[Sweeping swing]] | [[Follow up]] |
+| 1d6 slashing | 1    | [[Thrown]] (range 20/60) | 1    | [[Sweeping swing]] | [[Follow up]] |

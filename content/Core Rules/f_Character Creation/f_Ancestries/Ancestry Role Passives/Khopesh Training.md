@@ -6,4 +6,4 @@ tags:
   - ancestry_feature
   - martial
 ---
-You gain proficiency with the exotic weapon [[Khopesh]]. While you are weilding a [[Khopesh]], it has the [[dueling]] trait for you.
+You gain proficiency with the exotic weapon [[Khopesh]]. While you are weilding a [[Khopesh]], it has the [[Dueling]] trait for you.

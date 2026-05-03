@@ -1,5 +1,5 @@
 ---
-title: loading
+title: Loading
 draft: false
 tags:
 ---

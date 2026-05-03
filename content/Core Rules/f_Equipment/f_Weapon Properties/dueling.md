@@ -1,5 +1,5 @@
 ---
-title: dueling
+title: Dueling
 draft: false
 tags:
 ---

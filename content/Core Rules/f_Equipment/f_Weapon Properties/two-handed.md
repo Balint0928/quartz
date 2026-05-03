@@ -1,5 +1,5 @@
 ---
-title: two-handed
+title: Two-handed
 draft: false
 tags:
 ---

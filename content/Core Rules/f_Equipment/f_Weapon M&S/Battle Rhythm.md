@@ -4,4 +4,4 @@ draft: false
 tags:
   - weapon_mastery
 ---
-If you lend an attack with this weapon, gain a stack of rhythm. For each stack of Rhythm you ignore a point of armor value with your attacks with this weapon. This stacks until you miss.
+Whenever you hit an enemy with this weapon, the next weapon attack you make increases the positive effect of its [[Heft]] by 1. This stacks until you miss.

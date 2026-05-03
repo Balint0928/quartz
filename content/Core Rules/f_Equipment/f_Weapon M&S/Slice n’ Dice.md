@@ -4,4 +4,4 @@ draft: false
 tags:
   - weapon_special
 ---
-If you hit with an attack, and then use your bonus action to attack with another shortsword, that attack changes to slashing and treats the target as having 2 less DV.
+You can change the weapon's damage type to Slashing, and grant it the [[Cut]] property instead.

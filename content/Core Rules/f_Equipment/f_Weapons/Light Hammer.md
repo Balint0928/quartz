@@ -6,4 +6,4 @@ tags:
 ---
 | Damage          | Bulk | Properties                          | Heft | Special        | Mastery           |
 | --------------- | ---- | ----------------------------------- | ---- | -------------- | ----------------- |
-| 1d4 bludgeoning | L    | [[light]], [[thrown]] (range 20/60) | 1    | [[Bounceback]] | [[Battle Rhythm]] |
+| 1d4 bludgeoning | L    | [[Light]], [[Thrown]] (range 20/60) | 1    | [[Bounceback]] | [[Battle Rhythm]] |

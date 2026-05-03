@@ -6,4 +6,4 @@ tags:
 ---
 | Damage        | Bulk | Properties | Heft | Special             | Mastery    |
 | ------------- | ---- | ---------- | ---- | ------------------- | ---------- |
-| 1d10 slashing | 2    | [[reach]]  | 8    | [[Thrusting blade]] | [[Brace!]] |
+| 1d10 slashing | 2    | [[Reach]]  | 8    | [[Thrusting blade]] | [[Brace!]] |

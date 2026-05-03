@@ -1,5 +1,5 @@
 ---
-title: versatile
+title: Versatile
 draft: false
 tags:
 ---

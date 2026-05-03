@@ -6,4 +6,4 @@ tags:
 ---
 | Damage       | Bulk | Properties                                                    | Heft | Special            | Mastery        |
 | ------------ | ---- | ------------------------------------------------------------- | ---- | ------------------ | -------------- |
-| 1d8 Piercing | 2    | [[Composite]], [[Projectile]] (range 150/600), [[two-handed]] | -    | [[Precision shot]] | [[Cover fire]] |
+| 1d8 Piercing | 2    | [[Composite]], [[Projectile]] (range 150/600), [[Two-handed]] | -    | [[Precision shot]] | [[Cover fire]] |

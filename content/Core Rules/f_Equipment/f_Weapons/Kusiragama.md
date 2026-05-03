@@ -6,4 +6,4 @@ tags:
 ---
 | Damage       | Bulk | Properties                                                       | Heft | Special           | Mastery          |
 | ------------ | ---- | ---------------------------------------------------------------- | ---- | ----------------- | ---------------- |
-| 1d8 Slashing | 2    | [[finesse]], [[versatile]], [[light]], [[reach]], [[two-handed]] | -    | [[Catching Claw]] | [[Biting Talon]] |
+| 1d8 Slashing | 2    | [[Finesse]], [[Versatile]], [[Light]], [[Reach]], [[Two-handed]] | -    | [[Catching Claw]] | [[Biting Talon]] |
